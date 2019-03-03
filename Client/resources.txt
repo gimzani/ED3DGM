@@ -1,0 +1,55 @@
+
+
+Sites:
+
+https://github.com/gbiobob/ED3D-Galaxy-Map
+
+https://eddb.io/api
+
+https://www.edsm.net/en/api-system-v1
+
+https://www.edsm.net/en/api-v1
+
+
+System:
+
+GET https://www.edsm.net/api-v1/system?=
+
+    systemName
+    showCoordinates
+    showPermit
+
+    showInformation
+    showPrimaryStar
+
+{
+    name            : "Merope",
+    coords          : {
+        x               : -78.59375,
+        y               : -149.625,
+        z               : -340.53125
+    },
+    information     : {
+        allegiance      : "Federation",
+        government      : "Democracy",
+        faction         : "Pleiades Resource Enterprise",
+        factionState    : "Expansion",
+        population      : 850000,
+        security        : "Medium",
+        economy         : "Industrial"
+    },
+    primaryStar     : {
+        type            : "B (Blue-White) Star",
+        name            : "Merope",
+        isScoopable     : true
+    }
+}
+
+
+Sphere search:
+GET https://www.edsm.net/api-v1/sphere-systems
+
+    systemName
+    x* / y* / z*
+    minRadius
+    radius

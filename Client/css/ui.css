@@ -1,0 +1,163 @@
+
+/* -------------------------------------------------------------------------- */
+/* MAP */
+/* -------------------------------------------------------------------------- */
+
+ #edmap {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SIDE MENU */
+/* -------------------------------------------------------------------------- */
+
+#ui {
+  position:fixed;
+  top:0;
+  left:0;
+  bottom:0;
+  border-right:solid 1px black;
+  width:375px;
+  padding:20px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url(../textures/b50.png);
+  color: #fff;
+}
+
+/* form elements 
+-------------------------------------------------*/
+
+#ui .form-group{
+  margin:15px 0;
+}
+#ui .form-group label{
+  color:#ccc;
+}
+#ui .form-group .input{
+  display:inline-block;
+  width:100%;
+  margin: 3px 0;
+  padding: 6px 12px;
+  background: #222;
+  border:solid 1px black;
+  border-radius:5px;
+  box-sizing: border-box;
+  color: #fff;
+}
+#ui .form-group .input:focus{
+  outline: none;
+}
+
+#ui a.button{
+  display:inline-block;
+  background: #444;
+  margin: 3px 0;
+  padding: 5px 8px;
+  border:solid 1px black;
+  border-radius:3px;
+  cursor: pointer;
+}
+#ui a.button:active {
+  background: #333;
+}
+
+#ui .input-group{
+  display:flex;
+}
+
+
+#ui .input-group .input{
+  border-radius: 5px 0 0 5px;
+}
+#ui .input-group .button{
+  border-left:none;
+  border-radius: 0 5px 5px 0;
+}
+
+/* Selected System 
+-------------------------------------------------*/
+
+#ui .selected-system {
+  margin:5px 0;
+  border:solid 1px black;
+  background: #222;
+  border-radius:5px;
+  padding:10px;
+  font-size:12px;
+}
+
+#ui .selected-system h2{
+  margin: 0 0 15px 0;
+}
+
+#ui .selected-system .star-type{
+  float:right;
+}
+
+
+#ui .selected-system .coords{
+  display:flex;  
+  justify-content: space-around;
+}
+
+#ui .selected-system .coords > div{
+  flex-basis: 1; 
+}
+
+#ui .selected-system .system-information table tr td:first-child{
+  padding:2px 20px 2px 0;
+}
+
+#ui .selected-system .selected-system-buttons{
+  margin-top: 15px;
+  padding-top: 5px;
+  border-top: solid 1px #444;
+  text-align: right;
+}
+
+#ui .selected-system .selected-system-buttons a{
+  cursor: pointer;
+}
+#ui .selected-system .selected-system-buttons a:hover{
+  text-decoration: underline;
+}
+
+/* Resources 
+-------------------------------------------------*/
+#ui .resources{
+  position:absolute;
+  bottom:20px;
+  left:10px;
+  width:89%;
+  border:solid 1px black;
+  background:#222;
+  padding:10px;
+}
+#ui .resources h4{
+  margin:0 0 10px 0;
+}
+#ui .resources a{
+  display:block;
+  font-size:12px;
+  padding:5px;
+  color:#ccc;
+  text-decoration: none;
+}
+#ui .resources a:hover{
+  text-decoration: underline;
+}
+
+/* -------------------------------------------------------------------------- */
+/* GLOBALS */
+/* -------------------------------------------------------------------------- */
+
+.hidden{
+  display:none;
+}
+
+

@@ -1,0 +1,14 @@
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\bin\Debug\netcoreapp2.1\EDGM.App.deps.json
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\bin\Debug\netcoreapp2.1\EDGM.App.runtimeconfig.json
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\bin\Debug\netcoreapp2.1\EDGM.App.runtimeconfig.dev.json
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\bin\Debug\netcoreapp2.1\EDGM.App.dll
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\bin\Debug\netcoreapp2.1\EDGM.App.pdb
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.csprojAssemblyReference.cache
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.csproj.CoreCompileInputs.cache
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.RazorAssemblyInfo.cache
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.RazorAssemblyInfo.cs
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.AssemblyInfoInputs.cache
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.AssemblyInfo.cs
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.RazorTargetAssemblyInfo.cache
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.dll
+C:\Projects\_Briefcase\Dev\EDGM\EDGM.App\obj\Debug\netcoreapp2.1\EDGM.App.pdb
