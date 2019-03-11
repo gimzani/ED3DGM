@@ -11,6 +11,12 @@
   height: 100%;
 }
 
+/* Map Context 
+-------------------------------------------------*/
+.active{
+  color:#44ff33;
+}
+
 /* -------------------------------------------------------------------------- */
 /* SIDE MENU */
 /* -------------------------------------------------------------------------- */
@@ -99,7 +105,6 @@
   float:right;
 }
 
-
 #ui .selected-system .coords{
   display:flex;  
   justify-content: space-around;
@@ -127,6 +132,34 @@
   text-decoration: underline;
 }
 
+
+
+/* Area Search  Results 
+-------------------------------------------------*/
+#ui .search-results{
+  border:solid 1px black;
+  background:#222;
+  padding:10px;
+}
+#ui .search-results .result-count{
+  font-size:12px;
+  float:right;
+}
+#ui .search-results h4{
+  margin:0 0 10px 0;
+}
+#ui .search-results .results-list {  
+  border-top: solid 1px #444;
+  border-bottom: solid 1px #444;
+  font-size:12px;
+  height:300px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding:5px;
+}
+
+
+
 /* Resources 
 -------------------------------------------------*/
 #ui .resources{
@@ -137,6 +170,7 @@
   border:solid 1px black;
   background:#222;
   padding:10px;
+  z-index: 100;
 }
 #ui .resources h4{
   margin:0 0 10px 0;
@@ -152,6 +186,7 @@
   text-decoration: underline;
 }
 
+
 /* -------------------------------------------------------------------------- */
 /* GLOBALS */
 /* -------------------------------------------------------------------------- */
@@ -160,4 +195,6 @@
   display:none;
 }
 
-
+.clickable {
+  cursor: pointer;
+}

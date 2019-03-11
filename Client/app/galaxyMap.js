@@ -11,27 +11,33 @@
       },
       link: function(scope, el, attr){
         //-----------------------------------
-        scope.render = (attr.render=="true");
-        //-----------------------------------
-        scope.$on("refresh",function(){
-          setTimeout(function(){ Refresh(); }, 300);
-        });
         //-----------------------------------
         scope.$on("init", function(){
           setTimeout(function(){ Init(); }, 300);
         });
         //-----------------------------------
         //-----------------------------------
-        function Refresh(){
-            Ed3d.rebuild();
+        function buildMap(){
+          //----------------------
+          angular.element(el).empty();
+          //----------------------
+          var galaxy = document.createElement('div');
+          galaxy.setAttribute("id","edmap");
+          //----------------------
+          angular.element(el).append(galaxy);
+          //----------------------
+          Ed3d.init({
+            container: "edmap",
+            json: scope.mapData,
+            startAnim: false,
+            cameraPos: [0, 500, -500],
+            effectScaleSystem : [128,1500]
+          });  
+          //----------------------
         }
         //-----------------------------------
         function Init(){
-            Ed3d.init({
-              container: el.attr("id"),
-              json: scope.mapData,
-              effectScaleSystem : [128,1500]
-            });   
+          buildMap();
         }
         //-----------------------------------
       }

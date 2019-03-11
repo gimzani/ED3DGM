@@ -16,75 +16,23 @@
 
 <body ng-app="edgm" ng-controller="main">
 
-  <div id="edmap" map-data="mapData" render="true" galaxy-map></div>
+  <div map-data="mapData" galaxy-map></div>
 
   <div id="ui">
 
-    <div class="form-group">
-      <label>Search From</label>
-      <div class="input-group">
-        <input class="input" type="text" placeholder="System name" ng-model="form.systemInfoQuery" ng-keyup="checkEnter($event)" />
-        <a class="button" ng-click="form.getSystemInfo()">search</a>
-      </div>
+    <div ng-include="'/app/templates/mapContext.html'"></div>
+
+    <div class="single-search">
+      <div ng-include="'/app/templates/starSystemSearch.html'"></div>
+      <div ng-include="'/app/templates/starSystemDetails.html'"></div>
     </div>
-
-    <div class="form-group" ng-if="form.selectedSystem">
-      
-      <div class="selected-system">
-        <div class="star-type">{{form.selectedSystem.primaryStar.type}}</div>
-        <h2>{{form.selectedSystem.name}}</h2>
-
-        <div class="coords">
-          <div>X: {{form.selectedSystem.coords.x}}</div>
-          <div>Y: {{form.selectedSystem.coords.y}}</div>
-          <div>Z: {{form.selectedSystem.coords.z}}</div>
-        </div>
-        <div class="system-information">
-          <table>
-            <tr>
-              <td>Allegiance:</td> 
-              <td>{{form.selectedSystem.information.allegiance}}</td>
-            </tr>
-            <tr>
-              <td>Government:</td> 
-              <td>{{form.selectedSystem.information.government}}</td>
-            </tr>
-            <tr>
-              <td>Faction:</td> 
-              <td>{{form.selectedSystem.information.faction}}</td>
-            </tr>
-            <tr>
-              <td>FactionState:</td> 
-              <td>{{form.selectedSystem.information.factionState}}</td>
-            </tr>
-            <tr>
-              <td>Population:</td> 
-              <td>{{form.selectedSystem.information.population}}</td>
-            </tr>
-            <tr>
-              <td>Security:</td> 
-              <td>{{form.selectedSystem.information.security}}</td>
-            </tr>
-            <tr>
-              <td>Economy:</td> 
-              <td>{{form.selectedSystem.information.economy}}</td>
-            </tr>
-          </table>
-        </div>
-        <div class="selected-system-buttons">
-          <a ng-click="form.addToLibrary()">add</a> | 
-          <a ng-click="form.clearSearch()">clear</a>
-        </div>
-      </div>
+    
+    <div class="area-search">
+      <div ng-include="'/app/templates/areaStarSystemSearch.html'"></div>
+      <div ng-include="'/app/templates/areaSearchResults.html'"></div>
     </div>
-
-
-    <div class="resources">
-      <h4>Resources</h4>
-      <a href="https://github.com/gbiobob/ED3D-Galaxy-Map" target="_blank">ED3D Map Project</a>
-      <a href="https://www.edsm.net/en/api-system-v1" target="_blank">System API</a>
-      <a href="https://www.edsm.net/en/api-v1" target="_blank">API</a>
-    </div>
+ 
+    <div class="hidden" ng-include="'/app/templates/resources.html'"></div>
 
   </div>
 
