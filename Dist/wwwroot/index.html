@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title></title>
+
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="css/ed3dgm.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="css/ui.css">
+
+</head>
+
+<body ng-app="edgm" ng-controller="main">
+
+  <div map-data="mapData" galaxy-map></div>
+
+  <div id="ui">
+
+    <div ng-include="'/app/templates/mapContext.html'"></div>
+
+    <div class="single-search">
+      <div ng-include="'/app/templates/starSystemSearch.html'"></div>
+      <div ng-include="'/app/templates/starSystemDetails.html'"></div>
+    </div>
+    
+    <div class="area-search">
+      <div ng-include="'/app/templates/areaStarSystemSearch.html'"></div>
+      <div ng-include="'/app/templates/areaSearchResults.html'"></div>
+    </div>
+ 
+    <div class="hidden" ng-include="'/app/templates/resources.html'"></div>
+
+  </div>
+
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>  
+
+  <!-- Three.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r75/three.min.js"></script>
+
+  <!-- Launch ED3Dmap -->
+  <script src="js/ed3dmap.js"></script>
+
+  <!-- AngularJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.7/angular.min.js"></script>
+  <script src="app/app.js"></script>
+  <script src="app/galaxyMap.js"></script>
+  <script src="app/data.js"></script>
+
+
+</body>
+
+</html>

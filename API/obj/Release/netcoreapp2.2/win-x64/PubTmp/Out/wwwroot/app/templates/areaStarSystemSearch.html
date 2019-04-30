@@ -1,0 +1,15 @@
+<div class="form-group">
+  <label>Search Area Around</label>
+  <div class="input-group">
+    <input class="input" type="text" placeholder="System name" ng-model="areaSearch.query" ng-keyup="areaSearch.checkEnter()">
+    <a class="button" ng-click="areaSearch.search()">search</a>
+  </div>
+  <div class="input-group">
+    <div>
+      <input type="number" class="input" ng-model="areaSearch.min" min="0" max="50" />
+    </div>
+    <div>
+      <input type="number" class="input" ng-model="areaSearch.max" min="1" max="200" />
+    </div>
+  </div>
+</div>

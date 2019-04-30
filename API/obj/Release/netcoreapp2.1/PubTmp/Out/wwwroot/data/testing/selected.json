@@ -1,0 +1,22 @@
+{
+  "name": "Merope",
+  "coords": {
+    "x": -78.59375,
+    "y": -149.625,
+    "z": -340.53125
+  },
+  "information": {
+    "allegiance": "Federation",
+    "government": "Democracy",
+    "faction": "Pleiades Resource Enterprise",
+    "factionState": "Expansion",
+    "population": 850000,
+    "security": "Medium",
+    "economy": "Industrial"
+  },
+  "primaryStar": {
+    "type": "B (Blue-White) Star",
+    "name": "Merope",
+    "isScoopable": true
+  }
+}

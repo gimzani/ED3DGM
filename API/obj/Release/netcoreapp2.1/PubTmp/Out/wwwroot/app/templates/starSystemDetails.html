@@ -1,0 +1,49 @@
+<div class="form-group">
+      
+  <div class="selected-system">
+    <div class="star-type">{{systemSearch.selectedSystem.primaryStar.type}}</div>
+    <h2>{{systemSearch.selectedSystem.name}}</h2>
+
+    <div class="coords">
+      <div>X: {{systemSearch.selectedSystem.coords.x}}</div>
+      <div>Y: {{systemSearch.selectedSystem.coords.y}}</div>
+      <div>Z: {{systemSearch.selectedSystem.coords.z}}</div>
+    </div>
+    <div class="system-information">
+      <table>
+        <tr>
+          <td>Allegiance:</td> 
+          <td>{{systemSearch.selectedSystem.information.allegiance}}</td>
+        </tr>
+        <tr>
+          <td>Government:</td> 
+          <td>{{systemSearch.selectedSystem.information.government}}</td>
+        </tr>
+        <tr>
+          <td>Faction:</td> 
+          <td>{{systemSearch.selectedSystem.information.faction}}</td>
+        </tr>
+        <tr>
+          <td>FactionState:</td> 
+          <td>{{systemSearch.selectedSystem.information.factionState}}</td>
+        </tr>
+        <tr>
+          <td>Population:</td> 
+          <td>{{systemSearch.selectedSystem.information.population}}</td>
+        </tr>
+        <tr>
+          <td>Security:</td> 
+          <td>{{systemSearch.selectedSystem.information.security}}</td>
+        </tr>
+        <tr>
+          <td>Economy:</td> 
+          <td>{{systemSearch.selectedSystem.information.economy}}</td>
+        </tr>
+      </table>
+    </div>
+    <div class="selected-system-buttons">
+      <a ng-click="systemSearch.addToLibrary()">add</a> | 
+      <a ng-click="systemSearch.clearSearch()">clear</a>
+    </div>
+  </div>
+</div>

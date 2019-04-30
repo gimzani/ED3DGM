@@ -1,0 +1,9 @@
+<div class="search-results">  
+  <div class="result-count">[{{areaSearch.systems.length}}]</div>
+  <h4>Systems in Area</h4>
+  <div class="results-list">
+    <div ng-repeat="r in areaSearch.systems" style="margin: 2px 0">
+      <a class="clickable" ng-click="areaSearch.details(r.name)">{{r.name}}</a>
+    </div>
+  </div>
+</div>

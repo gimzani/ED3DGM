@@ -1,0 +1,5462 @@
+[
+  {
+    "distance": 49.73,
+    "bodyCount": 23,
+    "name": "HIP 107246"
+  },
+  {
+    "distance": 49.89,
+    "bodyCount": 18,
+    "name": "Venicones"
+  },
+  {
+    "distance": 49.24,
+    "bodyCount": 5,
+    "name": "Fenrisastya"
+  },
+  {
+    "distance": 48.21,
+    "bodyCount": 11,
+    "name": "Koyang"
+  },
+  {
+    "distance": 47.01,
+    "bodyCount": 14,
+    "name": "HIP 109490"
+  },
+  {
+    "distance": 48.72,
+    "bodyCount": 9,
+    "name": "Pegasi Sector YU-O b6-7"
+  },
+  {
+    "distance": 48.08,
+    "bodyCount": 21,
+    "name": "HIP 108806"
+  },
+  {
+    "distance": 48.83,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ON-T c3-24"
+  },
+  {
+    "distance": 45.25,
+    "bodyCount": 27,
+    "name": "Darkan"
+  },
+  {
+    "distance": 49.64,
+    "bodyCount": 5,
+    "name": "Candra"
+  },
+  {
+    "distance": 45.86,
+    "bodyCount": 1,
+    "name": "Pegasi Sector AG-N b7-0"
+  },
+  {
+    "distance": 47.66,
+    "bodyCount": 1,
+    "name": "Pegasi Sector WZ-O b6-8"
+  },
+  {
+    "distance": 44.83,
+    "bodyCount": 18,
+    "name": "Degastani"
+  },
+  {
+    "distance": 48.79,
+    "bodyCount": null,
+    "name": "HIP 107924"
+  },
+  {
+    "distance": 49.44,
+    "bodyCount": 2,
+    "name": "Pegasi Sector UO-Q b5-0"
+  },
+  {
+    "distance": 43.61,
+    "bodyCount": 2,
+    "name": "Pegasi Sector CB-N b7-1"
+  },
+  {
+    "distance": 46.79,
+    "bodyCount": 1,
+    "name": "Pegasi Sector EW-M b7-3"
+  },
+  {
+    "distance": 48.78,
+    "bodyCount": 9,
+    "name": "Ts'in Gu"
+  },
+  {
+    "distance": 44.84,
+    "bodyCount": 25,
+    "name": "Paliti"
+  },
+  {
+    "distance": 40.74,
+    "bodyCount": 46,
+    "name": "HIP 108822"
+  },
+  {
+    "distance": 41.2,
+    "bodyCount": 9,
+    "name": "Pegasi Sector YU-O b6-1"
+  },
+  {
+    "distance": 41.94,
+    "bodyCount": 2,
+    "name": "Pegasi Sector GW-W d1-91"
+  },
+  {
+    "distance": 44.34,
+    "bodyCount": 49,
+    "name": "HR 8276"
+  },
+  {
+    "distance": 44.2,
+    "bodyCount": 2,
+    "name": "Gliese 828.4"
+  },
+  {
+    "distance": 49.04,
+    "bodyCount": 11,
+    "name": "Pegasi Sector WV-A a15-0"
+  },
+  {
+    "distance": 44.23,
+    "bodyCount": null,
+    "name": "Pegasi Sector GH-L b8-5"
+  },
+  {
+    "distance": 46.33,
+    "bodyCount": 15,
+    "name": "Orishanh"
+  },
+  {
+    "distance": 45.89,
+    "bodyCount": 16,
+    "name": "Pegasi Sector AG-N b7-4"
+  },
+  {
+    "distance": 41.79,
+    "bodyCount": 31,
+    "name": "Kadaren"
+  },
+  {
+    "distance": 40.03,
+    "bodyCount": 29,
+    "name": "Uadjaramin"
+  },
+  {
+    "distance": 46.14,
+    "bodyCount": 21,
+    "name": "Pegasi Sector EW-M b7-4"
+  },
+  {
+    "distance": 49.42,
+    "bodyCount": 2,
+    "name": "Col 285 Sector VZ-P d5-84"
+  },
+  {
+    "distance": 39.73,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ON-T c3-17"
+  },
+  {
+    "distance": 44.37,
+    "bodyCount": 11,
+    "name": "Wolf 980"
+  },
+  {
+    "distance": 47.36,
+    "bodyCount": 15,
+    "name": "Col 285 Sector ZW-Q b19-7"
+  },
+  {
+    "distance": 38.83,
+    "bodyCount": 3,
+    "name": "Pegasi Sector YU-O b6-2"
+  },
+  {
+    "distance": 49.2,
+    "bodyCount": 4,
+    "name": "Pegasi Sector IR-W d1-102"
+  },
+  {
+    "distance": 48.63,
+    "bodyCount": 36,
+    "name": "Gerdisao"
+  },
+  {
+    "distance": 48.57,
+    "bodyCount": 20,
+    "name": "Pegasi Sector AQ-O b6-4"
+  },
+  {
+    "distance": 49.76,
+    "bodyCount": 3,
+    "name": "Koamutera"
+  },
+  {
+    "distance": 48.5,
+    "bodyCount": 9,
+    "name": "Col 285 Sector IN-J c9-16"
+  },
+  {
+    "distance": 42.93,
+    "bodyCount": 21,
+    "name": "Pegasi Sector AQ-O b6-2"
+  },
+  {
+    "distance": 47.72,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ST-Q b5-7"
+  },
+  {
+    "distance": 47.62,
+    "bodyCount": 3,
+    "name": "Pegasi Sector ST-Q b5-9"
+  },
+  {
+    "distance": 38.12,
+    "bodyCount": 3,
+    "name": "Pegasi Sector YU-O b6-4"
+  },
+  {
+    "distance": 44.49,
+    "bodyCount": 11,
+    "name": "Pegasi Sector SP-C a14-5"
+  },
+  {
+    "distance": 47.93,
+    "bodyCount": 3,
+    "name": "Pegasi Sector UO-Q b5-1"
+  },
+  {
+    "distance": 37.9,
+    "bodyCount": 1,
+    "name": "Pegasi Sector YU-O b6-6"
+  },
+  {
+    "distance": 37.36,
+    "bodyCount": 7,
+    "name": "Pegasi Sector YU-O b6-5"
+  },
+  {
+    "distance": 37.04,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ON-T c3-14"
+  },
+  {
+    "distance": 42.69,
+    "bodyCount": 17,
+    "name": "Fengai"
+  },
+  {
+    "distance": 41.97,
+    "bodyCount": 34,
+    "name": "Saontiana"
+  },
+  {
+    "distance": 45.73,
+    "bodyCount": 9,
+    "name": "Pegasi Sector SP-C a14-2"
+  },
+  {
+    "distance": 35.28,
+    "bodyCount": 10,
+    "name": "HIP 110205"
+  },
+  {
+    "distance": 38.99,
+    "bodyCount": 15,
+    "name": "Chinouk"
+  },
+  {
+    "distance": 49.45,
+    "bodyCount": 2,
+    "name": "Pegasi Sector KD-G a12-2"
+  },
+  {
+    "distance": 48.18,
+    "bodyCount": 10,
+    "name": "Col 285 Sector LW-L a37-3"
+  },
+  {
+    "distance": 37.51,
+    "bodyCount": 2,
+    "name": "Cotiges"
+  },
+  {
+    "distance": 43.6,
+    "bodyCount": 18,
+    "name": "Lodhary"
+  },
+  {
+    "distance": 46.32,
+    "bodyCount": 2,
+    "name": "Pegasi Sector GW-W d1-80"
+  },
+  {
+    "distance": 46.82,
+    "bodyCount": 20,
+    "name": "BD+23 4334"
+  },
+  {
+    "distance": 39.26,
+    "bodyCount": 1,
+    "name": "Pegasi Sector WZ-O b6-1"
+  },
+  {
+    "distance": 41.35,
+    "bodyCount": 2,
+    "name": "Col 285 Sector XB-R b19-8"
+  },
+  {
+    "distance": 40.57,
+    "bodyCount": 28,
+    "name": "Nukunda"
+  },
+  {
+    "distance": 46.8,
+    "bodyCount": 3,
+    "name": "Col 285 Sector VZ-P d5-100"
+  },
+  {
+    "distance": 49.65,
+    "bodyCount": 11,
+    "name": "Col 285 Sector HQ-N a36-4"
+  },
+  {
+    "distance": 44.85,
+    "bodyCount": 2,
+    "name": "Pegasi Sector OJ-E a13-2"
+  },
+  {
+    "distance": 46.24,
+    "bodyCount": 19,
+    "name": "HIP 110776"
+  },
+  {
+    "distance": 40.99,
+    "bodyCount": 2,
+    "name": "Col 285 Sector XB-R b19-7"
+  },
+  {
+    "distance": 49.93,
+    "bodyCount": 1,
+    "name": "Col 285 Sector LW-L a37-1"
+  },
+  {
+    "distance": 33.06,
+    "bodyCount": 41,
+    "name": "HIP 108457"
+  },
+  {
+    "distance": 46.89,
+    "bodyCount": 10,
+    "name": "Col 285 Sector LW-L a37-5"
+  },
+  {
+    "distance": 43.65,
+    "bodyCount": 26,
+    "name": "HIP 112389"
+  },
+  {
+    "distance": 44.4,
+    "bodyCount": 10,
+    "name": "Pegasi Sector SP-C a14-4"
+  },
+  {
+    "distance": 44.28,
+    "bodyCount": 2,
+    "name": "Pegasi Sector GW-W d1-72"
+  },
+  {
+    "distance": 41.2,
+    "bodyCount": 30,
+    "name": "Uadjarii"
+  },
+  {
+    "distance": 33.65,
+    "bodyCount": 9,
+    "name": "Celevik"
+  },
+  {
+    "distance": 44.34,
+    "bodyCount": 1,
+    "name": "Pegasi Sector SP-C a14-3"
+  },
+  {
+    "distance": 37.57,
+    "bodyCount": 1,
+    "name": "HIP 111473"
+  },
+  {
+    "distance": 36.09,
+    "bodyCount": 1,
+    "name": "Pegasi Sector YU-O b6-3"
+  },
+  {
+    "distance": 39.84,
+    "bodyCount": 21,
+    "name": "HIP 105202"
+  },
+  {
+    "distance": 43.78,
+    "bodyCount": 8,
+    "name": "Col 285 Sector HQ-N a36-3"
+  },
+  {
+    "distance": 31.68,
+    "bodyCount": 10,
+    "name": "Kachirigin"
+  },
+  {
+    "distance": 38.86,
+    "bodyCount": 34,
+    "name": "Fenricha"
+  },
+  {
+    "distance": 45.26,
+    "bodyCount": 7,
+    "name": "Col 285 Sector DK-P a35-1"
+  },
+  {
+    "distance": 46.01,
+    "bodyCount": 48,
+    "name": "HIP 113495"
+  },
+  {
+    "distance": 33.62,
+    "bodyCount": 29,
+    "name": "Ancento"
+  },
+  {
+    "distance": 40.13,
+    "bodyCount": 11,
+    "name": "Binjhwarku"
+  },
+  {
+    "distance": 45.76,
+    "bodyCount": 11,
+    "name": "Pegasi Sector PJ-E a13-0"
+  },
+  {
+    "distance": 49.61,
+    "bodyCount": 30,
+    "name": "Kamchandika"
+  },
+  {
+    "distance": 45.03,
+    "bodyCount": 9,
+    "name": "Pegasi Sector PJ-E a13-3"
+  },
+  {
+    "distance": 45.75,
+    "bodyCount": 1,
+    "name": "Pegasi Sector LH-V c2-28"
+  },
+  {
+    "distance": 42.04,
+    "bodyCount": 7,
+    "name": "Mbayo"
+  },
+  {
+    "distance": 45.42,
+    "bodyCount": 1,
+    "name": "Pegasi Sector PJ-E a13-4"
+  },
+  {
+    "distance": 45.18,
+    "bodyCount": 2,
+    "name": "Pegasi Sector HR-M b7-1"
+  },
+  {
+    "distance": 48.52,
+    "bodyCount": 2,
+    "name": "Col 285 Sector GV-N a36-0"
+  },
+  {
+    "distance": 36.33,
+    "bodyCount": 22,
+    "name": "HIP 111657"
+  },
+  {
+    "distance": 38.87,
+    "bodyCount": 13,
+    "name": "Pegasi Sector TT-Q b5-1"
+  },
+  {
+    "distance": 37.59,
+    "bodyCount": 1,
+    "name": "Pegasi Sector BQ-O b6-1"
+  },
+  {
+    "distance": 45.75,
+    "bodyCount": null,
+    "name": "Pegasi Sector PJ-E a13-1"
+  },
+  {
+    "distance": 41.05,
+    "bodyCount": 8,
+    "name": "Col 285 Sector IQ-N a36-2"
+  },
+  {
+    "distance": 49.54,
+    "bodyCount": 8,
+    "name": "Eorasa"
+  },
+  {
+    "distance": 48.48,
+    "bodyCount": 13,
+    "name": "Col 285 Sector CP-P a35-0"
+  },
+  {
+    "distance": 39.57,
+    "bodyCount": 1,
+    "name": "Pegasi Sector PN-T c3-13"
+  },
+  {
+    "distance": 46.95,
+    "bodyCount": null,
+    "name": "Pegasi Sector PJ-E a13-5"
+  },
+  {
+    "distance": 33.6,
+    "bodyCount": 2,
+    "name": "Pegasi Sector FW-M b7-6"
+  },
+  {
+    "distance": 36.68,
+    "bodyCount": 7,
+    "name": "Skaoismont"
+  },
+  {
+    "distance": 45.34,
+    "bodyCount": 10,
+    "name": "Col 285 Sector QC-K a38-0"
+  },
+  {
+    "distance": 44.92,
+    "bodyCount": 8,
+    "name": "Pegasi Sector PJ-E a13-2"
+  },
+  {
+    "distance": 39.37,
+    "bodyCount": 17,
+    "name": "Pegasi Sector BQ-O b6-6"
+  },
+  {
+    "distance": 41.18,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MW-L a37-0"
+  },
+  {
+    "distance": 45.84,
+    "bodyCount": null,
+    "name": "Ten Gu"
+  },
+  {
+    "distance": 40.28,
+    "bodyCount": 2,
+    "name": "Pegasi Sector TP-C a14-2"
+  },
+  {
+    "distance": 38.22,
+    "bodyCount": null,
+    "name": "HR 8653"
+  },
+  {
+    "distance": 48.5,
+    "bodyCount": 10,
+    "name": "Pegasi Sector DL-O b6-3"
+  },
+  {
+    "distance": 49.34,
+    "bodyCount": 13,
+    "name": "Pegasi Sector LD-G a12-2"
+  },
+  {
+    "distance": 46.11,
+    "bodyCount": 4,
+    "name": "Viliquerret"
+  },
+  {
+    "distance": 43.31,
+    "bodyCount": 8,
+    "name": "Pegasi Sector PN-T c3-21"
+  },
+  {
+    "distance": 45.88,
+    "bodyCount": 13,
+    "name": "10 Kappa Pegasi"
+  },
+  {
+    "distance": 37.25,
+    "bodyCount": 4,
+    "name": "Pegasi Sector TT-Q b5-2"
+  },
+  {
+    "distance": 49.79,
+    "bodyCount": 8,
+    "name": "Pegasi Sector TT-Q b5-0"
+  },
+  {
+    "distance": 48.92,
+    "bodyCount": 9,
+    "name": "Pegasi Sector LD-G a12-3"
+  },
+  {
+    "distance": 46.68,
+    "bodyCount": 1,
+    "name": "Pegasi Sector XJ-Q b5-2"
+  },
+  {
+    "distance": 30.64,
+    "bodyCount": 1,
+    "name": "Pegasi Sector BG-N b7-0"
+  },
+  {
+    "distance": 39.77,
+    "bodyCount": 3,
+    "name": "35 Pegasi"
+  },
+  {
+    "distance": 44.11,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YB-R b19-3"
+  },
+  {
+    "distance": 45.22,
+    "bodyCount": 25,
+    "name": "Phraces"
+  },
+  {
+    "distance": 39.93,
+    "bodyCount": 24,
+    "name": "HIP 112506"
+  },
+  {
+    "distance": 29.12,
+    "bodyCount": 22,
+    "name": "Ch'u Ti"
+  },
+  {
+    "distance": 45.66,
+    "bodyCount": 33,
+    "name": "Markab"
+  },
+  {
+    "distance": 44.8,
+    "bodyCount": 1,
+    "name": "Pegasi Sector TT-Q b5-3"
+  },
+  {
+    "distance": 40.73,
+    "bodyCount": 10,
+    "name": "Aramu"
+  },
+  {
+    "distance": 44.96,
+    "bodyCount": 7,
+    "name": "Pegasi Sector PJ-E a13-6"
+  },
+  {
+    "distance": 38.26,
+    "bodyCount": 24,
+    "name": "Bekenam"
+  },
+  {
+    "distance": 48.13,
+    "bodyCount": 10,
+    "name": "Pegasi Sector VO-Q b5-2"
+  },
+  {
+    "distance": 28.31,
+    "bodyCount": 11,
+    "name": "Pegasi Sector DB-N b7-1"
+  },
+  {
+    "distance": 36.88,
+    "bodyCount": 27,
+    "name": "Gliese 1272"
+  },
+  {
+    "distance": 39.6,
+    "bodyCount": 3,
+    "name": "Pegasi Sector FW-M b7-5"
+  },
+  {
+    "distance": 40.55,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MW-L a37-1"
+  },
+  {
+    "distance": 41.64,
+    "bodyCount": 42,
+    "name": "Pegasi Sector PN-T c3-14"
+  },
+  {
+    "distance": 43.74,
+    "bodyCount": 6,
+    "name": "Col 285 Sector IQ-N a36-1"
+  },
+  {
+    "distance": 41.89,
+    "bodyCount": 8,
+    "name": "Col 285 Sector EK-P a35-1"
+  },
+  {
+    "distance": 41,
+    "bodyCount": null,
+    "name": "Col 285 Sector EK-P a35-0"
+  },
+  {
+    "distance": 48.32,
+    "bodyCount": 1,
+    "name": "Col 285 Sector PO-H c10-25"
+  },
+  {
+    "distance": 39.17,
+    "bodyCount": 19,
+    "name": "Col 285 Sector AX-Q b19-4"
+  },
+  {
+    "distance": 43.53,
+    "bodyCount": 2,
+    "name": "HIP 113438"
+  },
+  {
+    "distance": 48.33,
+    "bodyCount": 1,
+    "name": "Pegasi Sector LH-V c2-27"
+  },
+  {
+    "distance": 43.28,
+    "bodyCount": 15,
+    "name": "San Kung"
+  },
+  {
+    "distance": 43.57,
+    "bodyCount": 12,
+    "name": "Paesing"
+  },
+  {
+    "distance": 33.29,
+    "bodyCount": 15,
+    "name": "Col 285 Sector AX-Q b19-7"
+  },
+  {
+    "distance": 42.63,
+    "bodyCount": 3,
+    "name": "Pegasi Sector DL-O b6-0"
+  },
+  {
+    "distance": 35.9,
+    "bodyCount": 9,
+    "name": "Kurichchan"
+  },
+  {
+    "distance": 49.14,
+    "bodyCount": 11,
+    "name": "OR Delphini"
+  },
+  {
+    "distance": 40.8,
+    "bodyCount": 3,
+    "name": "Kolabinates"
+  },
+  {
+    "distance": 42.94,
+    "bodyCount": 5,
+    "name": "Pegasi Sector VO-Q b5-1"
+  },
+  {
+    "distance": 47,
+    "bodyCount": 1,
+    "name": "Col 285 Sector CS-Q b19-0"
+  },
+  {
+    "distance": 44.61,
+    "bodyCount": 12,
+    "name": "Biko"
+  },
+  {
+    "distance": 39.43,
+    "bodyCount": 39,
+    "name": "LHS 3767"
+  },
+  {
+    "distance": 47.25,
+    "bodyCount": 6,
+    "name": "Col 285 Sector PO-H c10-23"
+  },
+  {
+    "distance": 38.42,
+    "bodyCount": 9,
+    "name": "Col 285 Sector AX-Q b19-5"
+  },
+  {
+    "distance": 42.08,
+    "bodyCount": 1,
+    "name": "Col 285 Sector EK-P a35-3"
+  },
+  {
+    "distance": 43.56,
+    "bodyCount": 24,
+    "name": "Paijao"
+  },
+  {
+    "distance": 34.15,
+    "bodyCount": 8,
+    "name": "Pegasi Sector VO-Q b5-5"
+  },
+  {
+    "distance": 48.12,
+    "bodyCount": 1,
+    "name": "Pegasi Sector XJ-Q b5-4"
+  },
+  {
+    "distance": 43.73,
+    "bodyCount": 9,
+    "name": "Col 285 Sector CS-Q b19-1"
+  },
+  {
+    "distance": 33.08,
+    "bodyCount": 8,
+    "name": "Catarites"
+  },
+  {
+    "distance": 40.16,
+    "bodyCount": 12,
+    "name": "Col 285 Sector IQ-N a36-4"
+  },
+  {
+    "distance": 29.34,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ZU-O b6-2"
+  },
+  {
+    "distance": 43.1,
+    "bodyCount": 8,
+    "name": "Karex"
+  },
+  {
+    "distance": 40.46,
+    "bodyCount": 68,
+    "name": "Harma"
+  },
+  {
+    "distance": 48.39,
+    "bodyCount": 1,
+    "name": "Pegasi Sector LD-G a12-4"
+  },
+  {
+    "distance": 46.44,
+    "bodyCount": 11,
+    "name": "Col 285 Sector CP-P a35-1"
+  },
+  {
+    "distance": 44.24,
+    "bodyCount": 9,
+    "name": "Col 285 Sector IQ-N a36-0"
+  },
+  {
+    "distance": 44.73,
+    "bodyCount": 29,
+    "name": "Kammato"
+  },
+  {
+    "distance": 46.95,
+    "bodyCount": 12,
+    "name": "Khodia"
+  },
+  {
+    "distance": 38.28,
+    "bodyCount": 20,
+    "name": "Asoorajara"
+  },
+  {
+    "distance": 41.69,
+    "bodyCount": 1,
+    "name": "Col 285 Sector IQ-N a36-3"
+  },
+  {
+    "distance": 47.69,
+    "bodyCount": 10,
+    "name": "Col 285 Sector NT-H c10-11"
+  },
+  {
+    "distance": 47.98,
+    "bodyCount": 20,
+    "name": "Pegasi Sector VO-Q b5-3"
+  },
+  {
+    "distance": 31.97,
+    "bodyCount": 4,
+    "name": "Pegasi Sector PN-T c3-23"
+  },
+  {
+    "distance": 26.2,
+    "bodyCount": 10,
+    "name": "Pegasi Sector BG-N b7-1"
+  },
+  {
+    "distance": 38.55,
+    "bodyCount": 2,
+    "name": "Pegasi Sector XJ-Q b5-0"
+  },
+  {
+    "distance": 27.65,
+    "bodyCount": 22,
+    "name": "Nantiates"
+  },
+  {
+    "distance": 41.87,
+    "bodyCount": null,
+    "name": "Col 285 Sector CS-Q b19-2"
+  },
+  {
+    "distance": 23.86,
+    "bodyCount": 29,
+    "name": "HIP 108820"
+  },
+  {
+    "distance": 36.94,
+    "bodyCount": 9,
+    "name": "Ndandjimbo"
+  },
+  {
+    "distance": 47.4,
+    "bodyCount": 1,
+    "name": "Col 285 Sector KB-M a37-4"
+  },
+  {
+    "distance": 44.36,
+    "bodyCount": 2,
+    "name": "Col 285 Sector GV-N a36-1"
+  },
+  {
+    "distance": 36.3,
+    "bodyCount": 9,
+    "name": "Punuri"
+  },
+  {
+    "distance": 37.06,
+    "bodyCount": 10,
+    "name": "BD+18 5029"
+  },
+  {
+    "distance": 26.92,
+    "bodyCount": 2,
+    "name": "Pegasi Sector BG-N b7-2"
+  },
+  {
+    "distance": 25.49,
+    "bodyCount": 9,
+    "name": "Col 285 Sector WQ-S b18-6"
+  },
+  {
+    "distance": 49.63,
+    "bodyCount": 23,
+    "name": "Kicho"
+  },
+  {
+    "distance": 47.6,
+    "bodyCount": 22,
+    "name": "Segobo"
+  },
+  {
+    "distance": 35.85,
+    "bodyCount": 15,
+    "name": "Pegasi Sector XJ-Q b5-1"
+  },
+  {
+    "distance": 28.52,
+    "bodyCount": 1,
+    "name": "Col 285 Sector LI-J c9-28"
+  },
+  {
+    "distance": 38.9,
+    "bodyCount": 16,
+    "name": "Guede"
+  },
+  {
+    "distance": 48.7,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YI-R a34-1"
+  },
+  {
+    "distance": 39.93,
+    "bodyCount": 10,
+    "name": "LHS 3640"
+  },
+  {
+    "distance": 44.24,
+    "bodyCount": null,
+    "name": "Col 285 Sector YB-R b19-8"
+  },
+  {
+    "distance": 34.15,
+    "bodyCount": 20,
+    "name": "Parhua"
+  },
+  {
+    "distance": 40.67,
+    "bodyCount": 1,
+    "name": "Pegasi Sector TT-Q b5-6"
+  },
+  {
+    "distance": 30.79,
+    "bodyCount": 2,
+    "name": "CLO 2Aa"
+  },
+  {
+    "distance": 46.16,
+    "bodyCount": 6,
+    "name": "Col 285 Sector EN-Q b19-5"
+  },
+  {
+    "distance": 41.85,
+    "bodyCount": 24,
+    "name": "No Kono"
+  },
+  {
+    "distance": 32.06,
+    "bodyCount": 8,
+    "name": "Mehurs"
+  },
+  {
+    "distance": 46.01,
+    "bodyCount": 9,
+    "name": "Col 285 Sector KB-M a37-3"
+  },
+  {
+    "distance": 46.3,
+    "bodyCount": 11,
+    "name": "Col 285 Sector YB-R b19-1"
+  },
+  {
+    "distance": 35.03,
+    "bodyCount": 1,
+    "name": "LP 458-33"
+  },
+  {
+    "distance": 39.22,
+    "bodyCount": 7,
+    "name": "Pegasi Sector HR-M b7-4"
+  },
+  {
+    "distance": 43.63,
+    "bodyCount": 2,
+    "name": "Col 285 Sector MW-L a37-2"
+  },
+  {
+    "distance": 47.56,
+    "bodyCount": null,
+    "name": "Col 285 Sector KB-M a37-0"
+  },
+  {
+    "distance": 29.89,
+    "bodyCount": 9,
+    "name": "Col 285 Sector AX-Q b19-8"
+  },
+  {
+    "distance": 25.81,
+    "bodyCount": 10,
+    "name": "Pegasi Sector XZ-O b6-5"
+  },
+  {
+    "distance": 48.36,
+    "bodyCount": 9,
+    "name": "Col 285 Sector UI-I a39-2"
+  },
+  {
+    "distance": 47.04,
+    "bodyCount": 14,
+    "name": "Jicarex"
+  },
+  {
+    "distance": 48.12,
+    "bodyCount": 8,
+    "name": "Col 285 Sector UI-I a39-4"
+  },
+  {
+    "distance": 40.74,
+    "bodyCount": 2,
+    "name": "Semakana"
+  },
+  {
+    "distance": 32.72,
+    "bodyCount": 11,
+    "name": "Col 285 Sector UV-S b18-6"
+  },
+  {
+    "distance": 40.5,
+    "bodyCount": 1,
+    "name": "Col 285 Sector RC-K a38-0"
+  },
+  {
+    "distance": 39.14,
+    "bodyCount": 10,
+    "name": "Pegasi Sector HR-M b7-2"
+  },
+  {
+    "distance": 37.33,
+    "bodyCount": 16,
+    "name": "24 Aquarii"
+  },
+  {
+    "distance": 47.64,
+    "bodyCount": 5,
+    "name": "HIP 105359"
+  },
+  {
+    "distance": 47.16,
+    "bodyCount": 9,
+    "name": "Piscium Sector MI-T b3-8"
+  },
+  {
+    "distance": 43.5,
+    "bodyCount": 17,
+    "name": "Col 285 Sector AH-S b18-6"
+  },
+  {
+    "distance": 49.9,
+    "bodyCount": null,
+    "name": "Col 285 Sector HV-N a36-5"
+  },
+  {
+    "distance": 35.51,
+    "bodyCount": 16,
+    "name": "HIP 104318"
+  },
+  {
+    "distance": 49.9,
+    "bodyCount": 4,
+    "name": "Tphene"
+  },
+  {
+    "distance": 35.73,
+    "bodyCount": 1,
+    "name": "33 Pegasi"
+  },
+  {
+    "distance": 45.93,
+    "bodyCount": 10,
+    "name": "Col 285 Sector YB-R b19-0"
+  },
+  {
+    "distance": 47.81,
+    "bodyCount": 2,
+    "name": "Paleni"
+  },
+  {
+    "distance": 25.09,
+    "bodyCount": 3,
+    "name": "Col 285 Sector UV-S b18-4"
+  },
+  {
+    "distance": 45.05,
+    "bodyCount": 25,
+    "name": "HIP 105066"
+  },
+  {
+    "distance": 26.71,
+    "bodyCount": 12,
+    "name": "Wadjalkan"
+  },
+  {
+    "distance": 46.49,
+    "bodyCount": 9,
+    "name": "Col 285 Sector HV-N a36-6"
+  },
+  {
+    "distance": 41.82,
+    "bodyCount": 2,
+    "name": "Col 285 Sector BE-R a34-3"
+  },
+  {
+    "distance": 37.58,
+    "bodyCount": 9,
+    "name": "Col 285 Sector FK-P a35-4"
+  },
+  {
+    "distance": 49.34,
+    "bodyCount": 1,
+    "name": "Col 285 Sector PH-K a38-3"
+  },
+  {
+    "distance": 36,
+    "bodyCount": 11,
+    "name": "Pinduma"
+  },
+  {
+    "distance": 46.66,
+    "bodyCount": null,
+    "name": "Col 285 Sector PH-K a38-0"
+  },
+  {
+    "distance": 45.99,
+    "bodyCount": 14,
+    "name": "Pegasi Sector MD-G a12-0"
+  },
+  {
+    "distance": 45.71,
+    "bodyCount": 12,
+    "name": "Col 285 Sector VI-I a39-2"
+  },
+  {
+    "distance": 25.65,
+    "bodyCount": 9,
+    "name": "Col 285 Sector WQ-S b18-3"
+  },
+  {
+    "distance": 40.06,
+    "bodyCount": 8,
+    "name": "Col 285 Sector BE-R a34-0"
+  },
+  {
+    "distance": 46.68,
+    "bodyCount": null,
+    "name": "Col 285 Sector LB-M a37-0"
+  },
+  {
+    "distance": 33.67,
+    "bodyCount": 3,
+    "name": "5 Gamma Equulei"
+  },
+  {
+    "distance": 30.87,
+    "bodyCount": 1,
+    "name": "Pegasi Sector FW-M b7-4"
+  },
+  {
+    "distance": 47.09,
+    "bodyCount": 11,
+    "name": "HIP 113980"
+  },
+  {
+    "distance": 23.19,
+    "bodyCount": 10,
+    "name": "Manissyet"
+  },
+  {
+    "distance": 47.75,
+    "bodyCount": 9,
+    "name": "Col 285 Sector LB-M a37-1"
+  },
+  {
+    "distance": 40.33,
+    "bodyCount": null,
+    "name": "Col 285 Sector RC-K a38-1"
+  },
+  {
+    "distance": 35.47,
+    "bodyCount": 2,
+    "name": "HIP 112229"
+  },
+  {
+    "distance": 27.67,
+    "bodyCount": 1,
+    "name": "Col 285 Sector UV-S b18-7"
+  },
+  {
+    "distance": 28.84,
+    "bodyCount": 16,
+    "name": "Pegasi Sector BQ-O b6-3"
+  },
+  {
+    "distance": 40.37,
+    "bodyCount": 2,
+    "name": "Col 285 Sector YB-R b19-9"
+  },
+  {
+    "distance": 44.43,
+    "bodyCount": null,
+    "name": "Col 285 Sector NW-L a37-3"
+  },
+  {
+    "distance": 28.35,
+    "bodyCount": 8,
+    "name": "Mandii"
+  },
+  {
+    "distance": 45.8,
+    "bodyCount": 14,
+    "name": "Capricorni Sector XZ-Y b5"
+  },
+  {
+    "distance": 29.55,
+    "bodyCount": 3,
+    "name": "13 Pegasi"
+  },
+  {
+    "distance": 33.96,
+    "bodyCount": 5,
+    "name": "Ethere"
+  },
+  {
+    "distance": 34.05,
+    "bodyCount": 8,
+    "name": "Col 285 Sector FK-P a35-2"
+  },
+  {
+    "distance": 37.51,
+    "bodyCount": 11,
+    "name": "Col 285 Sector FK-P a35-3"
+  },
+  {
+    "distance": 25.58,
+    "bodyCount": 21,
+    "name": "Thrutii"
+  },
+  {
+    "distance": 42.95,
+    "bodyCount": null,
+    "name": "Col 285 Sector AX-Q b19-3"
+  },
+  {
+    "distance": 45.99,
+    "bodyCount": null,
+    "name": "Col 285 Sector HV-N a36-3"
+  },
+  {
+    "distance": 23.06,
+    "bodyCount": 21,
+    "name": "Pegasi Sector XZ-O b6-2"
+  },
+  {
+    "distance": 32.56,
+    "bodyCount": 11,
+    "name": "BD+15 4416"
+  },
+  {
+    "distance": 29.53,
+    "bodyCount": 3,
+    "name": "Col 285 Sector YL-S b18-0"
+  },
+  {
+    "distance": 47.52,
+    "bodyCount": 9,
+    "name": "Col 285 Sector HV-N a36-4"
+  },
+  {
+    "distance": 28.41,
+    "bodyCount": 8,
+    "name": "Penty"
+  },
+  {
+    "distance": 38.71,
+    "bodyCount": 40,
+    "name": "Ngarra"
+  },
+  {
+    "distance": 38.51,
+    "bodyCount": 3,
+    "name": "Pegasi Sector GW-W d1-75"
+  },
+  {
+    "distance": 17.63,
+    "bodyCount": 29,
+    "name": "Wolf 1003"
+  },
+  {
+    "distance": 41.06,
+    "bodyCount": 6,
+    "name": "Col 285 Sector RC-K a38-3"
+  },
+  {
+    "distance": 48.51,
+    "bodyCount": 11,
+    "name": "Puiki"
+  },
+  {
+    "distance": 49.92,
+    "bodyCount": 9,
+    "name": "Col 285 Sector DP-P a35-2"
+  },
+  {
+    "distance": 41.93,
+    "bodyCount": 7,
+    "name": "Col 285 Sector BE-R a34-2"
+  },
+  {
+    "distance": 46.37,
+    "bodyCount": 2,
+    "name": "Col 285 Sector NT-H c10-10"
+  },
+  {
+    "distance": 39.82,
+    "bodyCount": 2,
+    "name": "Col 285 Sector YB-R b19-2"
+  },
+  {
+    "distance": 38.19,
+    "bodyCount": 1,
+    "name": "Pegasi Sector TT-Q b5-5"
+  },
+  {
+    "distance": 39.77,
+    "bodyCount": 12,
+    "name": "Lalande 45165"
+  },
+  {
+    "distance": 45.51,
+    "bodyCount": 2,
+    "name": "Sadalbari"
+  },
+  {
+    "distance": 34.95,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YB-R b19-6"
+  },
+  {
+    "distance": 48.56,
+    "bodyCount": 1,
+    "name": "Col 285 Sector XX-S a33-3"
+  },
+  {
+    "distance": 41.7,
+    "bodyCount": 3,
+    "name": "Col 285 Sector VZ-P d5-99"
+  },
+  {
+    "distance": 44.26,
+    "bodyCount": 12,
+    "name": "Col 285 Sector HV-N a36-1"
+  },
+  {
+    "distance": 30.1,
+    "bodyCount": 10,
+    "name": "Comanga"
+  },
+  {
+    "distance": 38.23,
+    "bodyCount": 4,
+    "name": "Pegasi Sector TT-Q b5-4"
+  },
+  {
+    "distance": 39.9,
+    "bodyCount": 10,
+    "name": "Col 285 Sector RC-K a38-2"
+  },
+  {
+    "distance": 31,
+    "bodyCount": 2,
+    "name": "Col 285 Sector QP-U b17-7"
+  },
+  {
+    "distance": 28.42,
+    "bodyCount": 8,
+    "name": "Mopadil"
+  },
+  {
+    "distance": 20.83,
+    "bodyCount": 4,
+    "name": "Col 285 Sector RT-R d4-109"
+  },
+  {
+    "distance": 28.12,
+    "bodyCount": 10,
+    "name": "Tawiru"
+  },
+  {
+    "distance": 31.8,
+    "bodyCount": 12,
+    "name": "Kui Xing"
+  },
+  {
+    "distance": 45.71,
+    "bodyCount": 10,
+    "name": "Col 285 Sector LB-M a37-3"
+  },
+  {
+    "distance": 40.84,
+    "bodyCount": 4,
+    "name": "Col 285 Sector AX-Q b19-1"
+  },
+  {
+    "distance": 40.25,
+    "bodyCount": 7,
+    "name": "Col 285 Sector AX-Q b19-2"
+  },
+  {
+    "distance": 33.68,
+    "bodyCount": 1,
+    "name": "LTT 16446"
+  },
+  {
+    "distance": 44.13,
+    "bodyCount": 1,
+    "name": "Col 285 Sector HV-N a36-2"
+  },
+  {
+    "distance": 41.28,
+    "bodyCount": 10,
+    "name": "Col 285 Sector NW-L a37-4"
+  },
+  {
+    "distance": 48.57,
+    "bodyCount": 9,
+    "name": "Col 285 Sector ZI-R a34-3"
+  },
+  {
+    "distance": 41.09,
+    "bodyCount": null,
+    "name": "Col 285 Sector NW-L a37-7"
+  },
+  {
+    "distance": 29.8,
+    "bodyCount": 4,
+    "name": "Col 285 Sector YB-R b19-4"
+  },
+  {
+    "distance": 46.05,
+    "bodyCount": 2,
+    "name": "Wadjarimpo"
+  },
+  {
+    "distance": 47.35,
+    "bodyCount": 28,
+    "name": "HIP 101856"
+  },
+  {
+    "distance": 41.86,
+    "bodyCount": 7,
+    "name": "Col 285 Sector BE-R a34-4"
+  },
+  {
+    "distance": 47.57,
+    "bodyCount": 18,
+    "name": "Col 285 Sector VC-T a33-2"
+  },
+  {
+    "distance": 49.84,
+    "bodyCount": 1,
+    "name": "Col 285 Sector DP-P a35-1"
+  },
+  {
+    "distance": 44.15,
+    "bodyCount": 10,
+    "name": "HIP 110753"
+  },
+  {
+    "distance": 37.18,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YB-R b19-5"
+  },
+  {
+    "distance": 37.8,
+    "bodyCount": 20,
+    "name": "SPOCS 1001"
+  },
+  {
+    "distance": 21.59,
+    "bodyCount": 23,
+    "name": "Pegasi Sector ZU-O b6-1"
+  },
+  {
+    "distance": 18,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ZU-O b6-4"
+  },
+  {
+    "distance": 17.93,
+    "bodyCount": 2,
+    "name": "Pegasi Sector ZU-O b6-6"
+  },
+  {
+    "distance": 34,
+    "bodyCount": 15,
+    "name": "San Muss"
+  },
+  {
+    "distance": 46.65,
+    "bodyCount": 1,
+    "name": "Piscium Sector XL-L a8-0"
+  },
+  {
+    "distance": 41.27,
+    "bodyCount": 9,
+    "name": "Col 285 Sector HV-N a36-0"
+  },
+  {
+    "distance": 16.11,
+    "bodyCount": 3,
+    "name": "Pegasi Sector ZU-O b6-7"
+  },
+  {
+    "distance": 49.88,
+    "bodyCount": 7,
+    "name": "Col 285 Sector VI-I a39-0"
+  },
+  {
+    "distance": 21.6,
+    "bodyCount": 15,
+    "name": "Pegasi Sector PN-T c3-27"
+  },
+  {
+    "distance": 49.54,
+    "bodyCount": 29,
+    "name": "Ba Xian"
+  },
+  {
+    "distance": 46.96,
+    "bodyCount": 34,
+    "name": "Quikindji"
+  },
+  {
+    "distance": 41.28,
+    "bodyCount": 13,
+    "name": "Meinannovi"
+  },
+  {
+    "distance": 48.78,
+    "bodyCount": 2,
+    "name": "Piscium Sector MI-T b3-2"
+  },
+  {
+    "distance": 49.78,
+    "bodyCount": 12,
+    "name": "Antilope"
+  },
+  {
+    "distance": 24.77,
+    "bodyCount": 7,
+    "name": "Col 285 Sector WQ-S b18-5"
+  },
+  {
+    "distance": 41.79,
+    "bodyCount": 24,
+    "name": "BD+10 4385"
+  },
+  {
+    "distance": 46.83,
+    "bodyCount": 9,
+    "name": "Col 285 Sector DP-P a35-3"
+  },
+  {
+    "distance": 41.76,
+    "bodyCount": 8,
+    "name": "Melinoe"
+  },
+  {
+    "distance": 43.08,
+    "bodyCount": 10,
+    "name": "Birjoromi"
+  },
+  {
+    "distance": 25.02,
+    "bodyCount": 2,
+    "name": "HIP 112073"
+  },
+  {
+    "distance": 16.09,
+    "bodyCount": 6,
+    "name": "Scythipik"
+  },
+  {
+    "distance": 42.2,
+    "bodyCount": 16,
+    "name": "Fan Cechehe"
+  },
+  {
+    "distance": 34.12,
+    "bodyCount": 1,
+    "name": "4 Equulei"
+  },
+  {
+    "distance": 40.54,
+    "bodyCount": 11,
+    "name": "Piscium Sector QO-R b4-6"
+  },
+  {
+    "distance": 17.54,
+    "bodyCount": 3,
+    "name": "Pegasi Sector ZU-O b6-5"
+  },
+  {
+    "distance": 35.29,
+    "bodyCount": 19,
+    "name": "Uncenian"
+  },
+  {
+    "distance": 44.02,
+    "bodyCount": 2,
+    "name": "Pegasi Sector XJ-Q b5-6"
+  },
+  {
+    "distance": 47.01,
+    "bodyCount": 11,
+    "name": "Capricorni Sector CL-Y d68"
+  },
+  {
+    "distance": 44.97,
+    "bodyCount": 1,
+    "name": "Piscium Sector BS-J a9-2"
+  },
+  {
+    "distance": 45.69,
+    "bodyCount": 4,
+    "name": "Col 285 Sector LB-M a37-2"
+  },
+  {
+    "distance": 17.16,
+    "bodyCount": 24,
+    "name": "Firenses"
+  },
+  {
+    "distance": 43.42,
+    "bodyCount": 3,
+    "name": "Wogama"
+  },
+  {
+    "distance": 36.44,
+    "bodyCount": 17,
+    "name": "LTT 16741"
+  },
+  {
+    "distance": 27.88,
+    "bodyCount": 9,
+    "name": "Pegasi Sector BQ-O b6-2"
+  },
+  {
+    "distance": 39.33,
+    "bodyCount": 1,
+    "name": "Col 285 Sector NW-L a37-5"
+  },
+  {
+    "distance": 32.98,
+    "bodyCount": 17,
+    "name": "Tsanluo Wu"
+  },
+  {
+    "distance": 48.13,
+    "bodyCount": 10,
+    "name": "Col 285 Sector DP-P a35-0"
+  },
+  {
+    "distance": 46.1,
+    "bodyCount": 10,
+    "name": "Col 285 Sector XX-S a33-1"
+  },
+  {
+    "distance": 26.98,
+    "bodyCount": 1,
+    "name": "Col 285 Sector NT-H c10-13"
+  },
+  {
+    "distance": 36.1,
+    "bodyCount": 28,
+    "name": "HIP 106439"
+  },
+  {
+    "distance": 36.39,
+    "bodyCount": 1,
+    "name": "Col 285 Sector VZ-P d5-96"
+  },
+  {
+    "distance": 28.41,
+    "bodyCount": 2,
+    "name": "Col 285 Sector YL-S b18-3"
+  },
+  {
+    "distance": 27.26,
+    "bodyCount": 2,
+    "name": "Col 285 Sector VZ-P d5-118"
+  },
+  {
+    "distance": 38.06,
+    "bodyCount": 16,
+    "name": "Wolf 1341"
+  },
+  {
+    "distance": 35.34,
+    "bodyCount": 1,
+    "name": "Col 285 Sector NW-L a37-2"
+  },
+  {
+    "distance": 48.88,
+    "bodyCount": 8,
+    "name": "Piscium Sector XL-L a8-2"
+  },
+  {
+    "distance": 30.47,
+    "bodyCount": 7,
+    "name": "Pegasi Sector TT-Q b5-7"
+  },
+  {
+    "distance": 27.73,
+    "bodyCount": 18,
+    "name": "132 G. Aquarii"
+  },
+  {
+    "distance": 42.56,
+    "bodyCount": null,
+    "name": "Col 285 Sector NW-L a37-1"
+  },
+  {
+    "distance": 34.52,
+    "bodyCount": 15,
+    "name": "HIP 105261"
+  },
+  {
+    "distance": 41.33,
+    "bodyCount": 9,
+    "name": "Nijoten"
+  },
+  {
+    "distance": 47.69,
+    "bodyCount": 11,
+    "name": "BD+15 4829"
+  },
+  {
+    "distance": 45.25,
+    "bodyCount": 4,
+    "name": "HR 7907"
+  },
+  {
+    "distance": 28.63,
+    "bodyCount": 16,
+    "name": "Alici"
+  },
+  {
+    "distance": 17.75,
+    "bodyCount": 4,
+    "name": "Pegasi Sector ZU-O b6-3"
+  },
+  {
+    "distance": 38.01,
+    "bodyCount": 2,
+    "name": "Col 285 Sector NW-L a37-6"
+  },
+  {
+    "distance": 18.72,
+    "bodyCount": 2,
+    "name": "Col 285 Sector QP-U b17-8"
+  },
+  {
+    "distance": 33.5,
+    "bodyCount": 2,
+    "name": "Scythodio"
+  },
+  {
+    "distance": 41.53,
+    "bodyCount": 22,
+    "name": "Capricorni Sector CL-Y d113"
+  },
+  {
+    "distance": 46.89,
+    "bodyCount": 8,
+    "name": "Birreti"
+  },
+  {
+    "distance": 49.4,
+    "bodyCount": 1,
+    "name": "Pegasi Sector ZE-Q b5-0"
+  },
+  {
+    "distance": 27.58,
+    "bodyCount": 30,
+    "name": "HR 8631"
+  },
+  {
+    "distance": 29.11,
+    "bodyCount": 2,
+    "name": "Col 285 Sector JN-J c9-13"
+  },
+  {
+    "distance": 44.24,
+    "bodyCount": 1,
+    "name": "Piscium Sector MI-T b3-1"
+  },
+  {
+    "distance": 34.42,
+    "bodyCount": 1,
+    "name": "Col 285 Sector JQ-N a36-2"
+  },
+  {
+    "distance": 33.16,
+    "bodyCount": 2,
+    "name": "Pegasi Sector PN-T c3-26"
+  },
+  {
+    "distance": 26.91,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YL-S b18-2"
+  },
+  {
+    "distance": 21.36,
+    "bodyCount": 2,
+    "name": "BD+10 4599"
+  },
+  {
+    "distance": 30.17,
+    "bodyCount": 17,
+    "name": "HIP 107020"
+  },
+  {
+    "distance": 17.18,
+    "bodyCount": 10,
+    "name": "34 Pegasi"
+  },
+  {
+    "distance": 45.62,
+    "bodyCount": 9,
+    "name": "Col 285 Sector QH-K a38-0"
+  },
+  {
+    "distance": 49.25,
+    "bodyCount": 7,
+    "name": "Col 285 Sector QH-K a38-2"
+  },
+  {
+    "distance": 49.42,
+    "bodyCount": 8,
+    "name": "Mecht"
+  },
+  {
+    "distance": 49.2,
+    "bodyCount": 25,
+    "name": "HIP 114458"
+  },
+  {
+    "distance": 24.72,
+    "bodyCount": 3,
+    "name": "Col 285 Sector VZ-P d5-92"
+  },
+  {
+    "distance": 35.97,
+    "bodyCount": 29,
+    "name": "Ayora"
+  },
+  {
+    "distance": 25.7,
+    "bodyCount": 1,
+    "name": "BD+09 5110"
+  },
+  {
+    "distance": 36.17,
+    "bodyCount": 10,
+    "name": "Col 285 Sector SC-K a38-0"
+  },
+  {
+    "distance": 49.42,
+    "bodyCount": 10,
+    "name": "Col 285 Sector QH-K a38-5"
+  },
+  {
+    "distance": 31.42,
+    "bodyCount": 61,
+    "name": "Gandii"
+  },
+  {
+    "distance": 38.74,
+    "bodyCount": 8,
+    "name": "Col 285 Sector BH-S b18-3"
+  },
+  {
+    "distance": 32.6,
+    "bodyCount": 11,
+    "name": "Piscium Sector RO-R b4-6"
+  },
+  {
+    "distance": 44.33,
+    "bodyCount": 2,
+    "name": "Draga"
+  },
+  {
+    "distance": 42.46,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MB-M a37-0"
+  },
+  {
+    "distance": 47.22,
+    "bodyCount": 10,
+    "name": "Col 285 Sector MB-M a37-2"
+  },
+  {
+    "distance": 40.48,
+    "bodyCount": 23,
+    "name": "Mizete"
+  },
+  {
+    "distance": 36.29,
+    "bodyCount": 13,
+    "name": "Piscium Sector RO-R b4-5"
+  },
+  {
+    "distance": 34.08,
+    "bodyCount": 9,
+    "name": "Honges"
+  },
+  {
+    "distance": 45.82,
+    "bodyCount": 9,
+    "name": "6 Gamma Piscium"
+  },
+  {
+    "distance": 32.59,
+    "bodyCount": 11,
+    "name": "Col 285 Sector OW-L a37-0"
+  },
+  {
+    "distance": 45.37,
+    "bodyCount": 21,
+    "name": "Yiman"
+  },
+  {
+    "distance": 41.28,
+    "bodyCount": 8,
+    "name": "Piscium Sector CS-J a9-0"
+  },
+  {
+    "distance": 48.2,
+    "bodyCount": 19,
+    "name": "Col 285 Sector WI-I a39-1"
+  },
+  {
+    "distance": 44.13,
+    "bodyCount": 18,
+    "name": "Capricorni Sector AL-X b1-1"
+  },
+  {
+    "distance": 20.85,
+    "bodyCount": 1,
+    "name": "Col 285 Sector ZL-S b18-3"
+  },
+  {
+    "distance": 35.67,
+    "bodyCount": 10,
+    "name": "HIP 114294"
+  },
+  {
+    "distance": 29.29,
+    "bodyCount": 10,
+    "name": "Umed"
+  },
+  {
+    "distance": 44.85,
+    "bodyCount": 3,
+    "name": "Capricorni Sector AL-X b1-0"
+  },
+  {
+    "distance": 40.79,
+    "bodyCount": 2,
+    "name": "Medj He"
+  },
+  {
+    "distance": 38.6,
+    "bodyCount": 14,
+    "name": "Yotani"
+  },
+  {
+    "distance": 36.33,
+    "bodyCount": 12,
+    "name": "Col 285 Sector CE-R a34-3"
+  },
+  {
+    "distance": 34.12,
+    "bodyCount": 1,
+    "name": "Col 285 Sector OW-L a37-1"
+  },
+  {
+    "distance": 42.96,
+    "bodyCount": 11,
+    "name": "Col 285 Sector EP-P a35-0"
+  },
+  {
+    "distance": 47.68,
+    "bodyCount": 21,
+    "name": "Rotanev"
+  },
+  {
+    "distance": 33.29,
+    "bodyCount": 26,
+    "name": "HIP 113699"
+  },
+  {
+    "distance": 41.9,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MB-M a37-5"
+  },
+  {
+    "distance": 29.69,
+    "bodyCount": 7,
+    "name": "Col 285 Sector KQ-N a36-0"
+  },
+  {
+    "distance": 36.02,
+    "bodyCount": 10,
+    "name": "Piscium Sector PT-R b4-5"
+  },
+  {
+    "distance": 30.12,
+    "bodyCount": 3,
+    "name": "Col 285 Sector GK-P a35-2"
+  },
+  {
+    "distance": 49.78,
+    "bodyCount": 9,
+    "name": "Col 285 Sector WI-I a39-3"
+  },
+  {
+    "distance": 30.39,
+    "bodyCount": 9,
+    "name": "Piscium Sector PT-R b4-3"
+  },
+  {
+    "distance": 28.5,
+    "bodyCount": 33,
+    "name": "Kochole"
+  },
+  {
+    "distance": 32.38,
+    "bodyCount": 1,
+    "name": "Wikmunda"
+  },
+  {
+    "distance": 45.66,
+    "bodyCount": 10,
+    "name": "Col 285 Sector MB-M a37-6"
+  },
+  {
+    "distance": 32.73,
+    "bodyCount": 2,
+    "name": "Kokojas"
+  },
+  {
+    "distance": 43.62,
+    "bodyCount": 8,
+    "name": "Piscium Sector CS-J a9-2"
+  },
+  {
+    "distance": 49.84,
+    "bodyCount": 10,
+    "name": "Col 285 Sector WI-I a39-2"
+  },
+  {
+    "distance": 38.55,
+    "bodyCount": 21,
+    "name": "Gliese 4328"
+  },
+  {
+    "distance": 41.89,
+    "bodyCount": 1,
+    "name": "Pegasi Sector AF-Q b5-4"
+  },
+  {
+    "distance": 47.95,
+    "bodyCount": 4,
+    "name": "Col 285 Sector WC-T a33-3"
+  },
+  {
+    "distance": 36.19,
+    "bodyCount": 1,
+    "name": "Pegasi Sector CQ-O b6-0"
+  },
+  {
+    "distance": 46.88,
+    "bodyCount": 1,
+    "name": "Col 285 Sector IV-N a36-3"
+  },
+  {
+    "distance": 10.71,
+    "bodyCount": 1,
+    "name": "Wolf 998"
+  },
+  {
+    "distance": 28.03,
+    "bodyCount": 6,
+    "name": "Decis"
+  },
+  {
+    "distance": 45.41,
+    "bodyCount": 1,
+    "name": "AC +24 44"
+  },
+  {
+    "distance": 22.68,
+    "bodyCount": 34,
+    "name": "Chuevik"
+  },
+  {
+    "distance": 29.03,
+    "bodyCount": 9,
+    "name": "Tabala"
+  },
+  {
+    "distance": 42.31,
+    "bodyCount": 4,
+    "name": "Col 285 Sector NT-H c10-18"
+  },
+  {
+    "distance": 39.29,
+    "bodyCount": 18,
+    "name": "Gaura"
+  },
+  {
+    "distance": 39.33,
+    "bodyCount": 1,
+    "name": "Piscium Sector PT-R b4-1"
+  },
+  {
+    "distance": 37.9,
+    "bodyCount": 10,
+    "name": "Col 285 Sector CE-R a34-2"
+  },
+  {
+    "distance": 47.75,
+    "bodyCount": 1,
+    "name": "Piscium Sector AX-J a9-0"
+  },
+  {
+    "distance": 37.29,
+    "bodyCount": 21,
+    "name": "Rathawa"
+  },
+  {
+    "distance": 9.66,
+    "bodyCount": 22,
+    "name": "LTT 16422"
+  },
+  {
+    "distance": 43.68,
+    "bodyCount": 1,
+    "name": "Col 285 Sector IV-N a36-0"
+  },
+  {
+    "distance": 21.28,
+    "bodyCount": 2,
+    "name": "Col 285 Sector LI-J c9-20"
+  },
+  {
+    "distance": 42.37,
+    "bodyCount": 8,
+    "name": "Piscium Sector CS-J a9-1"
+  },
+  {
+    "distance": 33.36,
+    "bodyCount": 29,
+    "name": "Patocuda"
+  },
+  {
+    "distance": 24.57,
+    "bodyCount": 1,
+    "name": "Pegasi Sector AV-O b6-0"
+  },
+  {
+    "distance": 25.12,
+    "bodyCount": 26,
+    "name": "Kponiugo"
+  },
+  {
+    "distance": 47.73,
+    "bodyCount": 36,
+    "name": "HIP 113355"
+  },
+  {
+    "distance": 38.99,
+    "bodyCount": 3,
+    "name": "Col 285 Sector BH-S b18-2"
+  },
+  {
+    "distance": 29.98,
+    "bodyCount": 2,
+    "name": "Piscium Sector PT-R b4-4"
+  },
+  {
+    "distance": 36.52,
+    "bodyCount": 4,
+    "name": "Capricorni Sector WE-Z b2"
+  },
+  {
+    "distance": 37.77,
+    "bodyCount": 8,
+    "name": "Njuwatem"
+  },
+  {
+    "distance": 19.22,
+    "bodyCount": 13,
+    "name": "Nkonjurungu"
+  },
+  {
+    "distance": 33.68,
+    "bodyCount": 9,
+    "name": "Col 285 Sector KQ-N a36-4"
+  },
+  {
+    "distance": 41.21,
+    "bodyCount": 8,
+    "name": "Col 285 Sector SC-K a38-2"
+  },
+  {
+    "distance": 34.66,
+    "bodyCount": 7,
+    "name": "Jumukulayon"
+  },
+  {
+    "distance": 12.24,
+    "bodyCount": 56,
+    "name": "Ngandowa"
+  },
+  {
+    "distance": 25.42,
+    "bodyCount": 14,
+    "name": "Kraurno"
+  },
+  {
+    "distance": 48.34,
+    "bodyCount": 4,
+    "name": "Souta"
+  },
+  {
+    "distance": 47.88,
+    "bodyCount": 11,
+    "name": "Col 285 Sector DI-P b20-1"
+  },
+  {
+    "distance": 47.03,
+    "bodyCount": 8,
+    "name": "Col 285 Sector WI-I a39-0"
+  },
+  {
+    "distance": 14.92,
+    "bodyCount": 8,
+    "name": "LTT 16548"
+  },
+  {
+    "distance": 22.68,
+    "bodyCount": 9,
+    "name": "Pegasi Sector AV-O b6-1"
+  },
+  {
+    "distance": 44.24,
+    "bodyCount": 10,
+    "name": "Col 285 Sector IV-N a36-2"
+  },
+  {
+    "distance": 28.08,
+    "bodyCount": 18,
+    "name": "Col 285 Sector ZB-R b19-2"
+  },
+  {
+    "distance": 36.71,
+    "bodyCount": 9,
+    "name": "Sadhen"
+  },
+  {
+    "distance": 41.5,
+    "bodyCount": 7,
+    "name": "15 Delphini"
+  },
+  {
+    "distance": 41.2,
+    "bodyCount": 3,
+    "name": "LHS 3584"
+  },
+  {
+    "distance": 36.35,
+    "bodyCount": 9,
+    "name": "Col 285 Sector OW-L a37-2"
+  },
+  {
+    "distance": 43.89,
+    "bodyCount": 8,
+    "name": "Col 285 Sector DI-P b20-5"
+  },
+  {
+    "distance": 37.87,
+    "bodyCount": 1,
+    "name": "Piscium Sector CS-J a9-3"
+  },
+  {
+    "distance": 14.69,
+    "bodyCount": 105,
+    "name": "Adityan"
+  },
+  {
+    "distance": 31.92,
+    "bodyCount": 9,
+    "name": "Col 285 Sector KQ-N a36-2"
+  },
+  {
+    "distance": 37.53,
+    "bodyCount": 9,
+    "name": "Col 285 Sector CE-R a34-0"
+  },
+  {
+    "distance": 30.06,
+    "bodyCount": 2,
+    "name": "Piscium Sector PT-R b4-2"
+  },
+  {
+    "distance": 38.8,
+    "bodyCount": 8,
+    "name": "Col 285 Sector BH-S b18-0"
+  },
+  {
+    "distance": 13.82,
+    "bodyCount": 28,
+    "name": "Jivaraikpoi"
+  },
+  {
+    "distance": 35.77,
+    "bodyCount": 14,
+    "name": "Gatorma"
+  },
+  {
+    "distance": 38.13,
+    "bodyCount": 3,
+    "name": "Piscium Sector RO-R b4-1"
+  },
+  {
+    "distance": 40.46,
+    "bodyCount": 1,
+    "name": "Col 285 Sector OW-L a37-5"
+  },
+  {
+    "distance": 37.95,
+    "bodyCount": 8,
+    "name": "Col 285 Sector SC-K a38-3"
+  },
+  {
+    "distance": 29.57,
+    "bodyCount": 42,
+    "name": "Tewi'xilak"
+  },
+  {
+    "distance": 21.45,
+    "bodyCount": 18,
+    "name": "Lalande 43492"
+  },
+  {
+    "distance": 45.43,
+    "bodyCount": 5,
+    "name": "Col 285 Sector QH-K a38-4"
+  },
+  {
+    "distance": 20.48,
+    "bodyCount": 11,
+    "name": "Col 285 Sector VV-S b18-5"
+  },
+  {
+    "distance": 27.65,
+    "bodyCount": 10,
+    "name": "Col 285 Sector ZB-R b19-7"
+  },
+  {
+    "distance": 43.07,
+    "bodyCount": 12,
+    "name": "Col 285 Sector EP-P a35-1"
+  },
+  {
+    "distance": 37.95,
+    "bodyCount": 11,
+    "name": "Col 285 Sector GK-P a35-3"
+  },
+  {
+    "distance": 27.11,
+    "bodyCount": 10,
+    "name": "Col 285 Sector ZL-S b18-0"
+  },
+  {
+    "distance": 39.99,
+    "bodyCount": 25,
+    "name": "Kurunti"
+  },
+  {
+    "distance": 25.89,
+    "bodyCount": 14,
+    "name": "HIP 110106"
+  },
+  {
+    "distance": 36.6,
+    "bodyCount": 2,
+    "name": "Pegasi Sector CQ-O b6-4"
+  },
+  {
+    "distance": 21.94,
+    "bodyCount": 13,
+    "name": "Perovoi"
+  },
+  {
+    "distance": 46.73,
+    "bodyCount": 9,
+    "name": "Alrai Sector XU-P a5-3"
+  },
+  {
+    "distance": 41.89,
+    "bodyCount": 1,
+    "name": "Piscium Sector RO-R b4-2"
+  },
+  {
+    "distance": 49.21,
+    "bodyCount": 5,
+    "name": "Hastyat"
+  },
+  {
+    "distance": 36.26,
+    "bodyCount": 4,
+    "name": "STF 2841"
+  },
+  {
+    "distance": 43.18,
+    "bodyCount": 17,
+    "name": "Clionometes"
+  },
+  {
+    "distance": 44.44,
+    "bodyCount": 19,
+    "name": "LP 462-13"
+  },
+  {
+    "distance": 45.23,
+    "bodyCount": 2,
+    "name": "Chairhuhyus"
+  },
+  {
+    "distance": 41.75,
+    "bodyCount": 4,
+    "name": "Piscium Sector NI-T b3-1"
+  },
+  {
+    "distance": 40.58,
+    "bodyCount": 24,
+    "name": "Shonpono"
+  },
+  {
+    "distance": 14.65,
+    "bodyCount": 23,
+    "name": "BD+06 5034"
+  },
+  {
+    "distance": 37.15,
+    "bodyCount": 13,
+    "name": "Ninans"
+  },
+  {
+    "distance": 36.79,
+    "bodyCount": 3,
+    "name": "Col 285 Sector XA-U b17-5"
+  },
+  {
+    "distance": 25.6,
+    "bodyCount": 25,
+    "name": "Col 285 Sector ZB-R b19-3"
+  },
+  {
+    "distance": 22.98,
+    "bodyCount": 4,
+    "name": "Lalande 42128"
+  },
+  {
+    "distance": 41.72,
+    "bodyCount": 23,
+    "name": "Chujohim"
+  },
+  {
+    "distance": 36.72,
+    "bodyCount": 11,
+    "name": "Col 285 Sector OW-L a37-3"
+  },
+  {
+    "distance": 49.24,
+    "bodyCount": 11,
+    "name": "Col 285 Sector AJ-R a34-2"
+  },
+  {
+    "distance": 17.04,
+    "bodyCount": 35,
+    "name": "Niman"
+  },
+  {
+    "distance": 37.89,
+    "bodyCount": 3,
+    "name": "Capricorni Sector YZ-Y b2"
+  },
+  {
+    "distance": 38.13,
+    "bodyCount": 2,
+    "name": "Pegasi Sector CQ-O b6-2"
+  },
+  {
+    "distance": 46.69,
+    "bodyCount": 9,
+    "name": "Col 285 Sector AJ-R a34-1"
+  },
+  {
+    "distance": 48.49,
+    "bodyCount": 5,
+    "name": "Capricorni Sector AV-Y b3"
+  },
+  {
+    "distance": 46.15,
+    "bodyCount": 8,
+    "name": "Alrai Sector XU-P a5-1"
+  },
+  {
+    "distance": 36.55,
+    "bodyCount": 3,
+    "name": "Bang Mu"
+  },
+  {
+    "distance": 32.69,
+    "bodyCount": 25,
+    "name": "HIP 105483"
+  },
+  {
+    "distance": 43.91,
+    "bodyCount": 14,
+    "name": "Turd Wura"
+  },
+  {
+    "distance": 46.72,
+    "bodyCount": 10,
+    "name": "Bishamuni"
+  },
+  {
+    "distance": 42.31,
+    "bodyCount": 9,
+    "name": "Col 285 Sector MB-M a37-4"
+  },
+  {
+    "distance": 22.93,
+    "bodyCount": 9,
+    "name": "Col 285 Sector VV-S b18-3"
+  },
+  {
+    "distance": 49.49,
+    "bodyCount": 2,
+    "name": "LHS 3725"
+  },
+  {
+    "distance": 10.76,
+    "bodyCount": 1,
+    "name": "LTT 16383"
+  },
+  {
+    "distance": 49.86,
+    "bodyCount": 19,
+    "name": "Manuki"
+  },
+  {
+    "distance": 32.11,
+    "bodyCount": 6,
+    "name": "Uru"
+  },
+  {
+    "distance": 46.65,
+    "bodyCount": 8,
+    "name": "Col 285 Sector EP-P a35-3"
+  },
+  {
+    "distance": 16.38,
+    "bodyCount": 28,
+    "name": "Alya"
+  },
+  {
+    "distance": 39.67,
+    "bodyCount": 1,
+    "name": "Col 285 Sector OW-L a37-4"
+  },
+  {
+    "distance": 30.64,
+    "bodyCount": 3,
+    "name": "Col 285 Sector ZL-S b18-1"
+  },
+  {
+    "distance": 16.94,
+    "bodyCount": 1,
+    "name": "Col 285 Sector VV-S b18-7"
+  },
+  {
+    "distance": 49.59,
+    "bodyCount": 1,
+    "name": "Alrai Sector TO-R a4-1"
+  },
+  {
+    "distance": 45.17,
+    "bodyCount": 49,
+    "name": "Bhadra"
+  },
+  {
+    "distance": 39.5,
+    "bodyCount": 14,
+    "name": "Kandha"
+  },
+  {
+    "distance": 49.26,
+    "bodyCount": 8,
+    "name": "Col 285 Sector AJ-R a34-3"
+  },
+  {
+    "distance": 44.21,
+    "bodyCount": 15,
+    "name": "7 Kappa Delphini"
+  },
+  {
+    "distance": 29.7,
+    "bodyCount": 2,
+    "name": "Col 285 Sector ZL-S b18-2"
+  },
+  {
+    "distance": 47.13,
+    "bodyCount": 24,
+    "name": "Tehuevi"
+  },
+  {
+    "distance": 43.41,
+    "bodyCount": 2,
+    "name": "Capricorni Sector AL-X b1-6"
+  },
+  {
+    "distance": 48.19,
+    "bodyCount": 19,
+    "name": "Oscabs"
+  },
+  {
+    "distance": 43.67,
+    "bodyCount": 10,
+    "name": "Alrai Sector TO-R a4-3"
+  },
+  {
+    "distance": 34.11,
+    "bodyCount": 2,
+    "name": "Wolf 905"
+  },
+  {
+    "distance": 32.89,
+    "bodyCount": 12,
+    "name": "Rusalku"
+  },
+  {
+    "distance": 13.25,
+    "bodyCount": 2,
+    "name": "Col 285 Sector XQ-S b18-2"
+  },
+  {
+    "distance": 32.09,
+    "bodyCount": 9,
+    "name": "Col 285 Sector GK-P a35-1"
+  },
+  {
+    "distance": 21.62,
+    "bodyCount": 8,
+    "name": "Girawa"
+  },
+  {
+    "distance": 32.13,
+    "bodyCount": 6,
+    "name": "Col 285 Sector KQ-N a36-1"
+  },
+  {
+    "distance": 42.08,
+    "bodyCount": 22,
+    "name": "Ugrivaci"
+  },
+  {
+    "distance": 2.69,
+    "bodyCount": 36,
+    "name": "StKM 1-1964"
+  },
+  {
+    "distance": 44.02,
+    "bodyCount": null,
+    "name": "Capricorni Sector AL-X b1-5"
+  },
+  {
+    "distance": 46.51,
+    "bodyCount": 26,
+    "name": "Anumalan"
+  },
+  {
+    "distance": 41.66,
+    "bodyCount": 9,
+    "name": "Capricorni Sector DL-Y c18"
+  },
+  {
+    "distance": 32.48,
+    "bodyCount": 46,
+    "name": "Belacajan"
+  },
+  {
+    "distance": 49.18,
+    "bodyCount": 8,
+    "name": "Capricorni Sector CG-X b1-4"
+  },
+  {
+    "distance": 16.16,
+    "bodyCount": 1,
+    "name": "Col 285 Sector VV-S b18-6"
+  },
+  {
+    "distance": 9.84,
+    "bodyCount": 6,
+    "name": "Col 285 Sector XQ-S b18-6"
+  },
+  {
+    "distance": 43.18,
+    "bodyCount": 24,
+    "name": "Badjarans"
+  },
+  {
+    "distance": 26.81,
+    "bodyCount": 15,
+    "name": "HR 8737"
+  },
+  {
+    "distance": 48.05,
+    "bodyCount": 9,
+    "name": "Col 285 Sector AJ-R a34-0"
+  },
+  {
+    "distance": 0,
+    "bodyCount": 22,
+    "name": "Nervi"
+  },
+  {
+    "distance": 40.47,
+    "bodyCount": 9,
+    "name": "Cenufo"
+  },
+  {
+    "distance": 39.83,
+    "bodyCount": 14,
+    "name": "Col 285 Sector JV-N a36-0"
+  },
+  {
+    "distance": 48.59,
+    "bodyCount": 6,
+    "name": "BD+12 5016"
+  },
+  {
+    "distance": 44.89,
+    "bodyCount": 14,
+    "name": "Urhodiweu"
+  },
+  {
+    "distance": 41.51,
+    "bodyCount": 8,
+    "name": "Piscium Sector DS-J a9-2"
+  },
+  {
+    "distance": 42.49,
+    "bodyCount": 19,
+    "name": "Ualangur"
+  },
+  {
+    "distance": 39.35,
+    "bodyCount": 8,
+    "name": "Col 285 Sector PW-L a37-2"
+  },
+  {
+    "distance": 48.44,
+    "bodyCount": 8,
+    "name": "Piscium Sector BX-J a9-0"
+  },
+  {
+    "distance": 29.07,
+    "bodyCount": 8,
+    "name": "Col 285 Sector HK-P a35-1"
+  },
+  {
+    "distance": 15.04,
+    "bodyCount": 18,
+    "name": "HR 8514"
+  },
+  {
+    "distance": 30.35,
+    "bodyCount": 11,
+    "name": "Col 285 Sector LQ-N a36-1"
+  },
+  {
+    "distance": 24.58,
+    "bodyCount": 20,
+    "name": "Madimo"
+  },
+  {
+    "distance": 45.65,
+    "bodyCount": 2,
+    "name": "Col 285 Sector DI-P b20-4"
+  },
+  {
+    "distance": 36.02,
+    "bodyCount": 2,
+    "name": "Col 285 Sector PW-L a37-0"
+  },
+  {
+    "distance": 49.13,
+    "bodyCount": 1,
+    "name": "Piscium Sector ZL-L a8-0"
+  },
+  {
+    "distance": 42.12,
+    "bodyCount": 8,
+    "name": "Nakap"
+  },
+  {
+    "distance": 33.19,
+    "bodyCount": 1,
+    "name": "Wolf 901"
+  },
+  {
+    "distance": 36.4,
+    "bodyCount": 1,
+    "name": "Capricorni Sector BQ-Y c21"
+  },
+  {
+    "distance": 22.97,
+    "bodyCount": 28,
+    "name": "Kao Kach"
+  },
+  {
+    "distance": 29.01,
+    "bodyCount": 3,
+    "name": "Col 285 Sector ZB-R b19-4"
+  },
+  {
+    "distance": 45.15,
+    "bodyCount": 21,
+    "name": "Col 285 Sector XA-U b17-1"
+  },
+  {
+    "distance": 41.37,
+    "bodyCount": 18,
+    "name": "Piscium Sector DS-J a9-1"
+  },
+  {
+    "distance": 29.41,
+    "bodyCount": 8,
+    "name": "Col 285 Sector HK-P a35-2"
+  },
+  {
+    "distance": 37.14,
+    "bodyCount": 1,
+    "name": "Col 285 Sector DE-R a34-1"
+  },
+  {
+    "distance": 29.07,
+    "bodyCount": 2,
+    "name": "Col 285 Sector PO-H c10-31"
+  },
+  {
+    "distance": 47.46,
+    "bodyCount": 28,
+    "name": "LO Pegasi"
+  },
+  {
+    "distance": 30.07,
+    "bodyCount": 21,
+    "name": "Ch'i Lingo"
+  },
+  {
+    "distance": 39.37,
+    "bodyCount": 2,
+    "name": "Col 285 Sector PW-L a37-3"
+  },
+  {
+    "distance": 43.28,
+    "bodyCount": 21,
+    "name": "HR 8792"
+  },
+  {
+    "distance": 49.47,
+    "bodyCount": 12,
+    "name": "Lactonaz"
+  },
+  {
+    "distance": 34.75,
+    "bodyCount": 7,
+    "name": "Piscium Sector RO-R b4-4"
+  },
+  {
+    "distance": 44.67,
+    "bodyCount": 5,
+    "name": "Lalande 39872"
+  },
+  {
+    "distance": 43.36,
+    "bodyCount": 1,
+    "name": "Piscium Sector FD-I a10-0"
+  },
+  {
+    "distance": 45.35,
+    "bodyCount": 8,
+    "name": "Alrai Sector YU-P a5-0"
+  },
+  {
+    "distance": 18.4,
+    "bodyCount": 2,
+    "name": "Piscium Sector TZ-P b5-7"
+  },
+  {
+    "distance": 46.79,
+    "bodyCount": 8,
+    "name": "Piscium Sector ZL-L a8-2"
+  },
+  {
+    "distance": 24.08,
+    "bodyCount": 2,
+    "name": "Col 285 Sector RT-R d4-100"
+  },
+  {
+    "distance": 30.71,
+    "bodyCount": 8,
+    "name": "Catucaya"
+  },
+  {
+    "distance": 47.25,
+    "bodyCount": 12,
+    "name": "HIP 104331"
+  },
+  {
+    "distance": 46.46,
+    "bodyCount": 3,
+    "name": "Cound"
+  },
+  {
+    "distance": 14.02,
+    "bodyCount": 1,
+    "name": "LP 578-45"
+  },
+  {
+    "distance": 28.13,
+    "bodyCount": 12,
+    "name": "Zorya Wujis"
+  },
+  {
+    "distance": 42.65,
+    "bodyCount": 1,
+    "name": "Piscium Sector DS-J a9-3"
+  },
+  {
+    "distance": 32.04,
+    "bodyCount": 7,
+    "name": "Col 285 Sector LQ-N a36-2"
+  },
+  {
+    "distance": 14.41,
+    "bodyCount": 11,
+    "name": "StKM 1-1950"
+  },
+  {
+    "distance": 24.8,
+    "bodyCount": 25,
+    "name": "Nankul"
+  },
+  {
+    "distance": 49.83,
+    "bodyCount": 18,
+    "name": "LHS 3610"
+  },
+  {
+    "distance": 32.29,
+    "bodyCount": 9,
+    "name": "HIP 112135"
+  },
+  {
+    "distance": 34.22,
+    "bodyCount": 12,
+    "name": "Matucanth"
+  },
+  {
+    "distance": 39.94,
+    "bodyCount": 9,
+    "name": "Col 285 Sector BJ-R a34-2"
+  },
+  {
+    "distance": 48.76,
+    "bodyCount": 1,
+    "name": "Alrai Sector CB-O a6-4"
+  },
+  {
+    "distance": 42.66,
+    "bodyCount": 8,
+    "name": "Col 285 Sector FP-P a35-0"
+  },
+  {
+    "distance": 45.65,
+    "bodyCount": 1,
+    "name": "Col 285 Sector BH-S b18-5"
+  },
+  {
+    "distance": 45.53,
+    "bodyCount": 43,
+    "name": "Triquagsak"
+  },
+  {
+    "distance": 46.89,
+    "bodyCount": 2,
+    "name": "HIP 105504"
+  },
+  {
+    "distance": 38.42,
+    "bodyCount": 44,
+    "name": "BD+17 4808"
+  },
+  {
+    "distance": 16.93,
+    "bodyCount": 8,
+    "name": "Piscium Sector VU-P b5-5"
+  },
+  {
+    "distance": 18.74,
+    "bodyCount": 19,
+    "name": "Piscium Sector TZ-P b5-6"
+  },
+  {
+    "distance": 47.22,
+    "bodyCount": 2,
+    "name": "Col 285 Sector BH-S b18-4"
+  },
+  {
+    "distance": 18.35,
+    "bodyCount": 13,
+    "name": "Col 285 Sector TK-U b17-3"
+  },
+  {
+    "distance": 48.96,
+    "bodyCount": 56,
+    "name": "Jumana"
+  },
+  {
+    "distance": 17.84,
+    "bodyCount": 36,
+    "name": "Wolf 1326"
+  },
+  {
+    "distance": 16.5,
+    "bodyCount": 8,
+    "name": "Piscium Sector VU-P b5-4"
+  },
+  {
+    "distance": 33.69,
+    "bodyCount": 6,
+    "name": "Col 285 Sector ZL-S b18-6"
+  },
+  {
+    "distance": 45.42,
+    "bodyCount": 1,
+    "name": "Col 285 Sector XI-I a39-3"
+  },
+  {
+    "distance": 33.87,
+    "bodyCount": 1,
+    "name": "Capricorni Sector UT-A b5"
+  },
+  {
+    "distance": 37.23,
+    "bodyCount": 1,
+    "name": "Col 285 Sector PW-L a37-1"
+  },
+  {
+    "distance": 42.34,
+    "bodyCount": 4,
+    "name": "Col 285 Sector FP-P a35-2"
+  },
+  {
+    "distance": 46.26,
+    "bodyCount": 1,
+    "name": "Alrai Sector YU-P a5-2"
+  },
+  {
+    "distance": 33.83,
+    "bodyCount": 2,
+    "name": "Capricorni Sector WE-Z b4"
+  },
+  {
+    "distance": 41.62,
+    "bodyCount": 22,
+    "name": "Dhanka"
+  },
+  {
+    "distance": 38.33,
+    "bodyCount": 2,
+    "name": "Col 285 Sector RZ-V b16-2"
+  },
+  {
+    "distance": 11.78,
+    "bodyCount": 40,
+    "name": "Nehebayo"
+  },
+  {
+    "distance": 36.64,
+    "bodyCount": 1,
+    "name": "Capricorni Sector WO-A b1"
+  },
+  {
+    "distance": 37.58,
+    "bodyCount": 2,
+    "name": "Wolf 891"
+  },
+  {
+    "distance": 41.95,
+    "bodyCount": 28,
+    "name": "Chakul"
+  },
+  {
+    "distance": 44.88,
+    "bodyCount": 8,
+    "name": "Holocan"
+  },
+  {
+    "distance": 42.29,
+    "bodyCount": 11,
+    "name": "Col 285 Sector FP-P a35-1"
+  },
+  {
+    "distance": 20.04,
+    "bodyCount": 8,
+    "name": "Piscium Sector VU-P b5-6"
+  },
+  {
+    "distance": 40.05,
+    "bodyCount": 7,
+    "name": "Col 285 Sector TC-K a38-3"
+  },
+  {
+    "distance": 41.81,
+    "bodyCount": 5,
+    "name": "Ceti Sector KD-S b4-1"
+  },
+  {
+    "distance": 46.51,
+    "bodyCount": 1,
+    "name": "Perit"
+  },
+  {
+    "distance": 39.34,
+    "bodyCount": 1,
+    "name": "Col 285 Sector JV-N a36-2"
+  },
+  {
+    "distance": 43.1,
+    "bodyCount": 1,
+    "name": "Piscium Sector FD-I a10-1"
+  },
+  {
+    "distance": 15,
+    "bodyCount": 45,
+    "name": "Wadjarata"
+  },
+  {
+    "distance": 16.39,
+    "bodyCount": 30,
+    "name": "Malsungga"
+  },
+  {
+    "distance": 13.84,
+    "bodyCount": 1,
+    "name": "Col 285 Sector XQ-S b18-1"
+  },
+  {
+    "distance": 41.15,
+    "bodyCount": 6,
+    "name": "Elusughna"
+  },
+  {
+    "distance": 38.28,
+    "bodyCount": 1,
+    "name": "Col 285 Sector JV-N a36-3"
+  },
+  {
+    "distance": 46.12,
+    "bodyCount": 12,
+    "name": "Gl 901"
+  },
+  {
+    "distance": 31.84,
+    "bodyCount": 2,
+    "name": "Col 285 Sector ZL-S b18-4"
+  },
+  {
+    "distance": 31.17,
+    "bodyCount": 1,
+    "name": "LHS 3722"
+  },
+  {
+    "distance": 44.68,
+    "bodyCount": 9,
+    "name": "HIP 116410"
+  },
+  {
+    "distance": 47.42,
+    "bodyCount": 2,
+    "name": "Alrai Sector YU-P a5-1"
+  },
+  {
+    "distance": 32.53,
+    "bodyCount": 1,
+    "name": "LP 697-47"
+  },
+  {
+    "distance": 44.91,
+    "bodyCount": 3,
+    "name": "Stefna"
+  },
+  {
+    "distance": 18.52,
+    "bodyCount": 7,
+    "name": "Sali'naman"
+  },
+  {
+    "distance": 38.29,
+    "bodyCount": 10,
+    "name": "Biaris"
+  },
+  {
+    "distance": 47.66,
+    "bodyCount": 11,
+    "name": "Piscium Sector BX-J a9-1"
+  },
+  {
+    "distance": 34,
+    "bodyCount": 9,
+    "name": "Col 285 Sector DE-R a34-2"
+  },
+  {
+    "distance": 39.62,
+    "bodyCount": 3,
+    "name": "Col 285 Sector XA-U b17-3"
+  },
+  {
+    "distance": 41.72,
+    "bodyCount": 1,
+    "name": "Alrai Sector UO-R a4-2"
+  },
+  {
+    "distance": 41.42,
+    "bodyCount": 8,
+    "name": "Col 285 Sector TC-K a38-2"
+  },
+  {
+    "distance": 25.23,
+    "bodyCount": 14,
+    "name": "Wathi"
+  },
+  {
+    "distance": 35.66,
+    "bodyCount": 31,
+    "name": "Ticushpakhi"
+  },
+  {
+    "distance": 13.09,
+    "bodyCount": 9,
+    "name": "LTT 16385"
+  },
+  {
+    "distance": 21.91,
+    "bodyCount": 2,
+    "name": "StKM 1-1968"
+  },
+  {
+    "distance": 15.59,
+    "bodyCount": 2,
+    "name": "Col 285 Sector RT-R d4-116"
+  },
+  {
+    "distance": 42.16,
+    "bodyCount": 10,
+    "name": "Alrai Sector UO-R a4-0"
+  },
+  {
+    "distance": 27.58,
+    "bodyCount": 42,
+    "name": "Monto"
+  },
+  {
+    "distance": 49.7,
+    "bodyCount": 11,
+    "name": "Piscium Sector BX-J a9-4"
+  },
+  {
+    "distance": 37.68,
+    "bodyCount": 11,
+    "name": "Col 285 Sector LQ-N a36-3"
+  },
+  {
+    "distance": 36.85,
+    "bodyCount": 9,
+    "name": "Col 285 Sector RZ-V b16-5"
+  },
+  {
+    "distance": 27.98,
+    "bodyCount": 3,
+    "name": "HIP 112095"
+  },
+  {
+    "distance": 49.98,
+    "bodyCount": 2,
+    "name": "Alrai Sector GW-W b1-1"
+  },
+  {
+    "distance": 34.38,
+    "bodyCount": 3,
+    "name": "HIP 105204"
+  },
+  {
+    "distance": 43.22,
+    "bodyCount": 10,
+    "name": "Alrai Sector UO-R a4-1"
+  },
+  {
+    "distance": 17.63,
+    "bodyCount": 15,
+    "name": "Obotrimi"
+  },
+  {
+    "distance": 43.97,
+    "bodyCount": 11,
+    "name": "HIP 115951"
+  },
+  {
+    "distance": 34.18,
+    "bodyCount": 1,
+    "name": "LTT 16482"
+  },
+  {
+    "distance": 19.12,
+    "bodyCount": 27,
+    "name": "Biham"
+  },
+  {
+    "distance": 36.55,
+    "bodyCount": 14,
+    "name": "Caspi"
+  },
+  {
+    "distance": 38.16,
+    "bodyCount": 10,
+    "name": "Col 285 Sector TC-K a38-1"
+  },
+  {
+    "distance": 33.46,
+    "bodyCount": 10,
+    "name": "Col 285 Sector ZB-R b19-8"
+  },
+  {
+    "distance": 33.44,
+    "bodyCount": 2,
+    "name": "Lalande 45638"
+  },
+  {
+    "distance": 28.74,
+    "bodyCount": 9,
+    "name": "BD-00 4461"
+  },
+  {
+    "distance": 46.03,
+    "bodyCount": 3,
+    "name": "Asteria"
+  },
+  {
+    "distance": 16.12,
+    "bodyCount": 1,
+    "name": "NT Aquarii"
+  },
+  {
+    "distance": 47.37,
+    "bodyCount": 13,
+    "name": "MT Pegasi"
+  },
+  {
+    "distance": 42.07,
+    "bodyCount": 2,
+    "name": "Col 285 Sector ND-J c9-7"
+  },
+  {
+    "distance": 41.32,
+    "bodyCount": 18,
+    "name": "Uhlanqui"
+  },
+  {
+    "distance": 47.99,
+    "bodyCount": 1,
+    "name": "Alrai Sector EW-N a6-1"
+  },
+  {
+    "distance": 43.63,
+    "bodyCount": 10,
+    "name": "Col 285 Sector XI-I a39-0"
+  },
+  {
+    "distance": 19.57,
+    "bodyCount": 5,
+    "name": "HERZ 2844"
+  },
+  {
+    "distance": 47.47,
+    "bodyCount": 52,
+    "name": "BD-02 5286"
+  },
+  {
+    "distance": 37.79,
+    "bodyCount": 10,
+    "name": "Col 285 Sector TC-K a38-0"
+  },
+  {
+    "distance": 49.34,
+    "bodyCount": 7,
+    "name": "Alrai Sector EW-N a6-2"
+  },
+  {
+    "distance": 35.07,
+    "bodyCount": 3,
+    "name": "Piscium Sector TJ-R b4-4"
+  },
+  {
+    "distance": 37.19,
+    "bodyCount": 12,
+    "name": "Col 285 Sector HK-P a35-3"
+  },
+  {
+    "distance": 48.87,
+    "bodyCount": 7,
+    "name": "Piscium Sector BX-J a9-3"
+  },
+  {
+    "distance": 12.23,
+    "bodyCount": 2,
+    "name": "Col 285 Sector YQ-S b18-0"
+  },
+  {
+    "distance": 45.48,
+    "bodyCount": 3,
+    "name": "Capricorni Sector CQ-Y c7"
+  },
+  {
+    "distance": 34.02,
+    "bodyCount": 1,
+    "name": "Piscium Sector ME-G a11-1"
+  },
+  {
+    "distance": 18.98,
+    "bodyCount": 24,
+    "name": "Guoji"
+  },
+  {
+    "distance": 14.87,
+    "bodyCount": 10,
+    "name": "Wolf 1022"
+  },
+  {
+    "distance": 43.39,
+    "bodyCount": 8,
+    "name": "Piscium Sector ES-J a9-0"
+  },
+  {
+    "distance": 33.6,
+    "bodyCount": 19,
+    "name": "Mariyacoch"
+  },
+  {
+    "distance": 30.82,
+    "bodyCount": 8,
+    "name": "Col 285 Sector MQ-N a36-3"
+  },
+  {
+    "distance": 39.95,
+    "bodyCount": 3,
+    "name": "HIP 114007"
+  },
+  {
+    "distance": 47.87,
+    "bodyCount": 9,
+    "name": "Alrai Sector RI-T a3-0"
+  },
+  {
+    "distance": 26.53,
+    "bodyCount": 1,
+    "name": "Col 285 Sector AM-S b18-3"
+  },
+  {
+    "distance": 19.56,
+    "bodyCount": 16,
+    "name": "171 G. Aquarii"
+  },
+  {
+    "distance": 30.94,
+    "bodyCount": 10,
+    "name": "Sigma Pegasi"
+  },
+  {
+    "distance": 35.87,
+    "bodyCount": 9,
+    "name": "Piscium Sector IY-H a10-0"
+  },
+  {
+    "distance": 44,
+    "bodyCount": 2,
+    "name": "Asana"
+  },
+  {
+    "distance": 48.8,
+    "bodyCount": 9,
+    "name": "Col 285 Sector YI-I a39-2"
+  },
+  {
+    "distance": 46.67,
+    "bodyCount": 12,
+    "name": "Alrai Sector RI-T a3-2"
+  },
+  {
+    "distance": 23.03,
+    "bodyCount": 11,
+    "name": "HERZ 2910"
+  },
+  {
+    "distance": 45.53,
+    "bodyCount": 1,
+    "name": "Alrai Sector RI-T a3-3"
+  },
+  {
+    "distance": 47.88,
+    "bodyCount": 1,
+    "name": "Piscium Sector AM-L a8-1"
+  },
+  {
+    "distance": 45.38,
+    "bodyCount": 8,
+    "name": "Alrai Sector ZU-P a5-0"
+  },
+  {
+    "distance": 17.55,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YQ-S b18-8"
+  },
+  {
+    "distance": 33.47,
+    "bodyCount": 13,
+    "name": "Bhalenses"
+  },
+  {
+    "distance": 47.82,
+    "bodyCount": 10,
+    "name": "Kundjabozo"
+  },
+  {
+    "distance": 32.75,
+    "bodyCount": 8,
+    "name": "Col 285 Sector IK-P a35-0"
+  },
+  {
+    "distance": 40.43,
+    "bodyCount": 14,
+    "name": "Pacalite"
+  },
+  {
+    "distance": 33.39,
+    "bodyCount": 16,
+    "name": "Tiannodaabe"
+  },
+  {
+    "distance": 21.32,
+    "bodyCount": 18,
+    "name": "Gcirthi"
+  },
+  {
+    "distance": 31.87,
+    "bodyCount": 2,
+    "name": "Olodyang"
+  },
+  {
+    "distance": 32.24,
+    "bodyCount": 8,
+    "name": "Miskai"
+  },
+  {
+    "distance": 34.57,
+    "bodyCount": 9,
+    "name": "Piscium Sector IY-H a10-1"
+  },
+  {
+    "distance": 42.58,
+    "bodyCount": 1,
+    "name": "Col 285 Sector GP-P a35-1"
+  },
+  {
+    "distance": 31.12,
+    "bodyCount": 8,
+    "name": "Col 285 Sector MQ-N a36-2"
+  },
+  {
+    "distance": 42.47,
+    "bodyCount": 8,
+    "name": "Col 285 Sector GP-P a35-0"
+  },
+  {
+    "distance": 44.33,
+    "bodyCount": 9,
+    "name": "Piscium Sector GD-I a10-2"
+  },
+  {
+    "distance": 47.34,
+    "bodyCount": 7,
+    "name": "HIP 114952"
+  },
+  {
+    "distance": 28.57,
+    "bodyCount": 13,
+    "name": "Punna"
+  },
+  {
+    "distance": 48.26,
+    "bodyCount": 6,
+    "name": "Capricorni Sector BV-Y b2"
+  },
+  {
+    "distance": 43.39,
+    "bodyCount": 4,
+    "name": "Nirros"
+  },
+  {
+    "distance": 48.93,
+    "bodyCount": 11,
+    "name": "Alrai Sector RI-T a3-1"
+  },
+  {
+    "distance": 44.82,
+    "bodyCount": 1,
+    "name": "Dhrutin"
+  },
+  {
+    "distance": 35.92,
+    "bodyCount": 52,
+    "name": "NLTT 51200"
+  },
+  {
+    "distance": 35.78,
+    "bodyCount": 11,
+    "name": "Col 285 Sector QW-L a37-3"
+  },
+  {
+    "distance": 33.56,
+    "bodyCount": 7,
+    "name": "Col 285 Sector WF-U b17-5"
+  },
+  {
+    "distance": 39.49,
+    "bodyCount": 2,
+    "name": "Col 285 Sector UC-K a38-0"
+  },
+  {
+    "distance": 25.07,
+    "bodyCount": 10,
+    "name": "Col 285 Sector WF-U b17-1"
+  },
+  {
+    "distance": 29.84,
+    "bodyCount": 9,
+    "name": "Col 285 Sector OT-H c10-17"
+  },
+  {
+    "distance": 48.96,
+    "bodyCount": 1,
+    "name": "Col 285 Sector YI-I a39-1"
+  },
+  {
+    "distance": 29.74,
+    "bodyCount": 2,
+    "name": "Col 285 Sector WF-U b17-0"
+  },
+  {
+    "distance": 39.01,
+    "bodyCount": 2,
+    "name": "HERZ 2582"
+  },
+  {
+    "distance": 37.5,
+    "bodyCount": 11,
+    "name": "Col 285 Sector MQ-N a36-6"
+  },
+  {
+    "distance": 44.96,
+    "bodyCount": 2,
+    "name": "Piscium Sector UJ-R b4-1"
+  },
+  {
+    "distance": 25.38,
+    "bodyCount": 3,
+    "name": "Col 285 Sector CX-Q b19-4"
+  },
+  {
+    "distance": 46.07,
+    "bodyCount": 21,
+    "name": "LHS 3564"
+  },
+  {
+    "distance": 24.23,
+    "bodyCount": 15,
+    "name": "Wolf 1019"
+  },
+  {
+    "distance": 19.57,
+    "bodyCount": 1,
+    "name": "Col 285 Sector WV-S b18-0"
+  },
+  {
+    "distance": 26.16,
+    "bodyCount": 11,
+    "name": "Col 285 Sector AM-S b18-4"
+  },
+  {
+    "distance": 35.19,
+    "bodyCount": 10,
+    "name": "LHS 3677"
+  },
+  {
+    "distance": 29.21,
+    "bodyCount": 2,
+    "name": "Col 285 Sector OT-H c10-16"
+  },
+  {
+    "distance": 43.58,
+    "bodyCount": 3,
+    "name": "BD-06 5559"
+  },
+  {
+    "distance": 35.48,
+    "bodyCount": 1,
+    "name": "LTT 9512"
+  },
+  {
+    "distance": 38.45,
+    "bodyCount": 26,
+    "name": "HIP 109528"
+  },
+  {
+    "distance": 27.63,
+    "bodyCount": 3,
+    "name": "Col 285 Sector MI-J c9-13"
+  },
+  {
+    "distance": 48.73,
+    "bodyCount": 1,
+    "name": "Alrai Sector ZU-P a5-3"
+  },
+  {
+    "distance": 44.77,
+    "bodyCount": 11,
+    "name": "39 Aquarii"
+  },
+  {
+    "distance": 42.97,
+    "bodyCount": 11,
+    "name": "ADS 16553"
+  },
+  {
+    "distance": 47.48,
+    "bodyCount": 8,
+    "name": "Piscium Sector UJ-R b4-0"
+  },
+  {
+    "distance": 18.12,
+    "bodyCount": 39,
+    "name": "Sumod"
+  },
+  {
+    "distance": 47.98,
+    "bodyCount": 10,
+    "name": "Alrai Sector VO-R a4-2"
+  },
+  {
+    "distance": 14.58,
+    "bodyCount": 16,
+    "name": "Sopontet"
+  },
+  {
+    "distance": 23.83,
+    "bodyCount": 2,
+    "name": "Col 285 Sector MI-J c9-12"
+  },
+  {
+    "distance": 43.65,
+    "bodyCount": 1,
+    "name": "Piscium Sector ES-J a9-2"
+  },
+  {
+    "distance": 46.68,
+    "bodyCount": 43,
+    "name": "LP 460-60"
+  },
+  {
+    "distance": 44.56,
+    "bodyCount": 1,
+    "name": "Piscium Sector ES-J a9-3"
+  },
+  {
+    "distance": 15.51,
+    "bodyCount": 2,
+    "name": "Col 285 Sector ST-R d4-116"
+  },
+  {
+    "distance": 42.19,
+    "bodyCount": 8,
+    "name": "Alrai Sector BQ-P a5-2"
+  },
+  {
+    "distance": 39.53,
+    "bodyCount": 14,
+    "name": "Moarasi"
+  },
+  {
+    "distance": 36.62,
+    "bodyCount": 42,
+    "name": "HIP 107412"
+  },
+  {
+    "distance": 49.66,
+    "bodyCount": 11,
+    "name": "LHS 3598"
+  },
+  {
+    "distance": 30.81,
+    "bodyCount": 3,
+    "name": "Col 285 Sector AM-S b18-1"
+  },
+  {
+    "distance": 24.38,
+    "bodyCount": 2,
+    "name": "LTT 18548"
+  },
+  {
+    "distance": 48.26,
+    "bodyCount": 11,
+    "name": "Capricorni Sector CQ-Y c20"
+  },
+  {
+    "distance": 31.04,
+    "bodyCount": 14,
+    "name": "QQ Pegasi"
+  },
+  {
+    "distance": 37.14,
+    "bodyCount": 3,
+    "name": "Naits"
+  },
+  {
+    "distance": 29.55,
+    "bodyCount": 2,
+    "name": "Piscium Sector SO-R b4-1"
+  },
+  {
+    "distance": 20.75,
+    "bodyCount": 3,
+    "name": "Col 285 Sector ST-R d4-113"
+  },
+  {
+    "distance": 30.76,
+    "bodyCount": 19,
+    "name": "Ross 779"
+  },
+  {
+    "distance": 31.49,
+    "bodyCount": 3,
+    "name": "Col 285 Sector KN-J c9-17"
+  },
+  {
+    "distance": 35.64,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MQ-N a36-1"
+  },
+  {
+    "distance": 43.93,
+    "bodyCount": 1,
+    "name": "Piscium Sector GD-I a10-1"
+  },
+  {
+    "distance": 40.26,
+    "bodyCount": 3,
+    "name": "LTT 16218"
+  },
+  {
+    "distance": 42.44,
+    "bodyCount": 22,
+    "name": "LP 635-46"
+  },
+  {
+    "distance": 43.95,
+    "bodyCount": 1,
+    "name": "Alrai Sector NC-V a2-2"
+  },
+  {
+    "distance": 38.51,
+    "bodyCount": 25,
+    "name": "HIP 112974"
+  },
+  {
+    "distance": 43.09,
+    "bodyCount": 12,
+    "name": "Obe"
+  },
+  {
+    "distance": 42.7,
+    "bodyCount": 13,
+    "name": "Tai Quambis"
+  },
+  {
+    "distance": 49.78,
+    "bodyCount": 8,
+    "name": "Piscium Sector CX-J a9-0"
+  },
+  {
+    "distance": 38.91,
+    "bodyCount": 31,
+    "name": "LP 576-34"
+  },
+  {
+    "distance": 45.1,
+    "bodyCount": 9,
+    "name": "Alrai Sector BQ-P a5-1"
+  },
+  {
+    "distance": 32.59,
+    "bodyCount": 39,
+    "name": "LFT 1749"
+  },
+  {
+    "distance": 47.58,
+    "bodyCount": 8,
+    "name": "Raluvii"
+  },
+  {
+    "distance": 34.95,
+    "bodyCount": 13,
+    "name": "HR 8212"
+  },
+  {
+    "distance": 40.03,
+    "bodyCount": 1,
+    "name": "Alrai Sector XJ-R a4-2"
+  },
+  {
+    "distance": 16.17,
+    "bodyCount": 11,
+    "name": "Col 285 Sector YQ-S b18-4"
+  },
+  {
+    "distance": 49.23,
+    "bodyCount": 1,
+    "name": "Alrai Sector ZU-P a5-2"
+  },
+  {
+    "distance": 43.83,
+    "bodyCount": 10,
+    "name": "18 Lambda Piscium"
+  },
+  {
+    "distance": 48.83,
+    "bodyCount": 9,
+    "name": "Alrai Sector VO-R a4-3"
+  },
+  {
+    "distance": 28.14,
+    "bodyCount": 20,
+    "name": "Privia"
+  },
+  {
+    "distance": 24.85,
+    "bodyCount": 1,
+    "name": "Col 285 Sector AM-S b18-2"
+  },
+  {
+    "distance": 26.67,
+    "bodyCount": 16,
+    "name": "Col 285 Sector CX-Q b19-2"
+  },
+  {
+    "distance": 39.52,
+    "bodyCount": 6,
+    "name": "Alrai Sector TD-T a3-5"
+  },
+  {
+    "distance": 22.03,
+    "bodyCount": 2,
+    "name": "Piscium Sector WU-P b5-2"
+  },
+  {
+    "distance": 32.4,
+    "bodyCount": 2,
+    "name": "LHS 3717"
+  },
+  {
+    "distance": 24,
+    "bodyCount": 10,
+    "name": "Rathakako"
+  },
+  {
+    "distance": 49.54,
+    "bodyCount": 5,
+    "name": "Piscium Sector CX-J a9-1"
+  },
+  {
+    "distance": 20.82,
+    "bodyCount": 2,
+    "name": "Zeta Aquarii"
+  },
+  {
+    "distance": 47.87,
+    "bodyCount": 2,
+    "name": "Alrai Sector VO-R a4-0"
+  },
+  {
+    "distance": 22.83,
+    "bodyCount": 8,
+    "name": "Tyrfing"
+  },
+  {
+    "distance": 27.1,
+    "bodyCount": 16,
+    "name": "Tz'utuls"
+  },
+  {
+    "distance": 46.67,
+    "bodyCount": 13,
+    "name": "Alrai Sector VO-R a4-1"
+  },
+  {
+    "distance": 44.29,
+    "bodyCount": 13,
+    "name": "HIP 114702"
+  },
+  {
+    "distance": 38.82,
+    "bodyCount": 2,
+    "name": "Piscium Sector QT-R b4-4"
+  },
+  {
+    "distance": 35.97,
+    "bodyCount": 7,
+    "name": "Piscium Sector IY-H a10-3"
+  },
+  {
+    "distance": 40.99,
+    "bodyCount": 19,
+    "name": "16 Piscium"
+  },
+  {
+    "distance": 19.48,
+    "bodyCount": 21,
+    "name": "Taurina"
+  },
+  {
+    "distance": 31.08,
+    "bodyCount": 16,
+    "name": "LTT 16456"
+  },
+  {
+    "distance": 45.67,
+    "bodyCount": 12,
+    "name": "Tuara"
+  },
+  {
+    "distance": 40.27,
+    "bodyCount": 11,
+    "name": "Morronii"
+  },
+  {
+    "distance": 37.77,
+    "bodyCount": 1,
+    "name": "Col 285 Sector MQ-N a36-0"
+  },
+  {
+    "distance": 48.97,
+    "bodyCount": 16,
+    "name": "Jeiteswar"
+  },
+  {
+    "distance": 34.54,
+    "bodyCount": 24,
+    "name": "Chualang Mu"
+  },
+  {
+    "distance": 40.07,
+    "bodyCount": 33,
+    "name": "HIP 110663"
+  },
+  {
+    "distance": 27.93,
+    "bodyCount": 10,
+    "name": "Byeru Bese"
+  },
+  {
+    "distance": 27.54,
+    "bodyCount": 2,
+    "name": "LHS 3808"
+  },
+  {
+    "distance": 19.19,
+    "bodyCount": 3,
+    "name": "Col 285 Sector UK-U b17-3"
+  },
+  {
+    "distance": 19.73,
+    "bodyCount": 10,
+    "name": "Col 285 Sector YQ-S b18-2"
+  },
+  {
+    "distance": 49.12,
+    "bodyCount": 34,
+    "name": "LHS 528"
+  },
+  {
+    "distance": 35.29,
+    "bodyCount": 3,
+    "name": "Col 285 Sector AC-R b19-6"
+  },
+  {
+    "distance": 37.4,
+    "bodyCount": 1,
+    "name": "Piscium Sector IY-H a10-2"
+  },
+  {
+    "distance": 35.69,
+    "bodyCount": 2,
+    "name": "Piscium Sector JC-V c2-18"
+  },
+  {
+    "distance": 40.03,
+    "bodyCount": 29,
+    "name": "Coriabog"
+  },
+  {
+    "distance": 39.09,
+    "bodyCount": 28,
+    "name": "Capricorni Sector ZZ-Y b0"
+  },
+  {
+    "distance": 36.89,
+    "bodyCount": 2,
+    "name": "96 Aquarii"
+  },
+  {
+    "distance": 20.74,
+    "bodyCount": 4,
+    "name": "Vidattuns"
+  },
+  {
+    "distance": 44.38,
+    "bodyCount": 8,
+    "name": "Col 285 Sector HP-P a35-0"
+  },
+  {
+    "distance": 43.34,
+    "bodyCount": 1,
+    "name": "Alrai Sector YJ-R a4-1"
+  },
+  {
+    "distance": 47.51,
+    "bodyCount": 1,
+    "name": "Alrai Sector GW-N a6-3"
+  },
+  {
+    "distance": 28.2,
+    "bodyCount": 25,
+    "name": "LP 641-4"
+  },
+  {
+    "distance": 37.92,
+    "bodyCount": 12,
+    "name": "Indrundjara"
+  },
+  {
+    "distance": 32.51,
+    "bodyCount": 8,
+    "name": "Baruai Shi"
+  },
+  {
+    "distance": 36.5,
+    "bodyCount": 5,
+    "name": "Mbay"
+  },
+  {
+    "distance": 45.22,
+    "bodyCount": 10,
+    "name": "Col 285 Sector GD-P b20-7"
+  },
+  {
+    "distance": 35.52,
+    "bodyCount": 9,
+    "name": "Piscium Sector SO-R b4-4"
+  },
+  {
+    "distance": 20.55,
+    "bodyCount": 10,
+    "name": "Col 285 Sector YQ-S b18-3"
+  },
+  {
+    "distance": 45.41,
+    "bodyCount": 10,
+    "name": "Alrai Sector SI-T a3-1"
+  },
+  {
+    "distance": 37.71,
+    "bodyCount": 2,
+    "name": "Col 285 Sector AC-R b19-5"
+  },
+  {
+    "distance": 47.35,
+    "bodyCount": 13,
+    "name": "Piscium Sector HD-I a10-0"
+  },
+  {
+    "distance": 38.25,
+    "bodyCount": 11,
+    "name": "Piscium Sector NE-G a11-1"
+  },
+  {
+    "distance": 36.96,
+    "bodyCount": 4,
+    "name": "Tzel"
+  },
+  {
+    "distance": 41.12,
+    "bodyCount": 13,
+    "name": "BD-11 5484"
+  },
+  {
+    "distance": 22.19,
+    "bodyCount": 2,
+    "name": "Col 285 Sector UK-U b17-4"
+  },
+  {
+    "distance": 32.19,
+    "bodyCount": 4,
+    "name": "Col 285 Sector CX-Q b19-6"
+  },
+  {
+    "distance": 33.02,
+    "bodyCount": 2,
+    "name": "Piscium Sector JC-V c2-14"
+  },
+  {
+    "distance": 46.76,
+    "bodyCount": 1,
+    "name": "Piscium Sector FS-J a9-2"
+  },
+  {
+    "distance": 36.32,
+    "bodyCount": 19,
+    "name": "LTT 9391"
+  },
+  {
+    "distance": 41.27,
+    "bodyCount": 1,
+    "name": "Capricorni Sector ZZ-Y b4"
+  },
+  {
+    "distance": 21.2,
+    "bodyCount": 20,
+    "name": "Col 285 Sector YQ-S b18-7"
+  },
+  {
+    "distance": 48.5,
+    "bodyCount": 1,
+    "name": "Piscium Sector FS-J a9-3"
+  },
+  {
+    "distance": 41.5,
+    "bodyCount": 1,
+    "name": "Col 285 Sector NQ-N a36-3"
+  },
+  {
+    "distance": 26.3,
+    "bodyCount": 4,
+    "name": "Col 285 Sector WV-S b18-6"
+  },
+  {
+    "distance": 49.37,
+    "bodyCount": 2,
+    "name": "Kista"
+  },
+  {
+    "distance": 32.24,
+    "bodyCount": 11,
+    "name": "LP 638-40"
+  },
+  {
+    "distance": 35.94,
+    "bodyCount": 22,
+    "name": "BD-05 5480"
+  },
+  {
+    "distance": 48.56,
+    "bodyCount": 9,
+    "name": "Alrai Sector OC-V a2-3"
+  },
+  {
+    "distance": 46.36,
+    "bodyCount": 6,
+    "name": "Alrai Sector WO-R a4-0"
+  },
+  {
+    "distance": 26.07,
+    "bodyCount": 10,
+    "name": "Piscium Sector WU-P b5-1"
+  },
+  {
+    "distance": 31.18,
+    "bodyCount": 28,
+    "name": "LTT 9246"
+  },
+  {
+    "distance": 38.2,
+    "bodyCount": 10,
+    "name": "Hardh"
+  },
+  {
+    "distance": 45.21,
+    "bodyCount": 1,
+    "name": "Alrai Sector SI-T a3-0"
+  },
+  {
+    "distance": 38.48,
+    "bodyCount": 2,
+    "name": "11 Aquarii"
+  },
+  {
+    "distance": 46.47,
+    "bodyCount": 1,
+    "name": "Alrai Sector GW-N a6-0"
+  },
+  {
+    "distance": 39.28,
+    "bodyCount": 1,
+    "name": "Piscium Sector NE-G a11-2"
+  },
+  {
+    "distance": 46.37,
+    "bodyCount": 10,
+    "name": "Alrai Sector WO-R a4-5"
+  },
+  {
+    "distance": 45.12,
+    "bodyCount": 5,
+    "name": "Piscium Sector FS-J a9-0"
+  },
+  {
+    "distance": 36.36,
+    "bodyCount": 15,
+    "name": "LP 581-36"
+  },
+  {
+    "distance": 35.75,
+    "bodyCount": 57,
+    "name": "Gliese 867.1"
+  },
+  {
+    "distance": 39.21,
+    "bodyCount": 1,
+    "name": "Piscium Sector SO-R b4-5"
+  },
+  {
+    "distance": 40.05,
+    "bodyCount": 1,
+    "name": "Alrai Sector UD-T a3-1"
+  },
+  {
+    "distance": 32.04,
+    "bodyCount": 2,
+    "name": "Piscium Sector LX-U c2-16"
+  },
+  {
+    "distance": 47.17,
+    "bodyCount": 1,
+    "name": "G 67-27"
+  },
+  {
+    "distance": 29.89,
+    "bodyCount": 2,
+    "name": "Col 285 Sector CX-Q b19-5"
+  },
+  {
+    "distance": 48.44,
+    "bodyCount": 1,
+    "name": "BD+10 4534"
+  },
+  {
+    "distance": 42.37,
+    "bodyCount": 2,
+    "name": "Alrai Sector UD-T a3-2"
+  },
+  {
+    "distance": 42,
+    "bodyCount": 20,
+    "name": "HIP 107805"
+  },
+  {
+    "distance": 37.79,
+    "bodyCount": 26,
+    "name": "LTT 9542"
+  },
+  {
+    "distance": 30.06,
+    "bodyCount": 1,
+    "name": "Col 285 Sector CX-Q b19-1"
+  },
+  {
+    "distance": 44.76,
+    "bodyCount": 8,
+    "name": "Alrai Sector YJ-R a4-2"
+  },
+  {
+    "distance": 46.85,
+    "bodyCount": 1,
+    "name": "Alrai Sector WO-R a4-4"
+  },
+  {
+    "distance": 49.4,
+    "bodyCount": 4,
+    "name": "Asvinnut"
+  },
+  {
+    "distance": 46.33,
+    "bodyCount": 8,
+    "name": "Alrai Sector OC-V a2-1"
+  },
+  {
+    "distance": 48.33,
+    "bodyCount": 11,
+    "name": "Rakkaiadi"
+  },
+  {
+    "distance": 39.86,
+    "bodyCount": 8,
+    "name": "BD+04 4988"
+  },
+  {
+    "distance": 42.91,
+    "bodyCount": 8,
+    "name": "He Xians"
+  },
+  {
+    "distance": 34.09,
+    "bodyCount": 31,
+    "name": "Ao Run"
+  },
+  {
+    "distance": 39.5,
+    "bodyCount": 2,
+    "name": "Col 285 Sector RW-L a37-0"
+  },
+  {
+    "distance": 49.37,
+    "bodyCount": 1,
+    "name": "Piscium Sector FS-J a9-1"
+  },
+  {
+    "distance": 45.91,
+    "bodyCount": 12,
+    "name": "Col 285 Sector UO-R d4-89"
+  },
+  {
+    "distance": 47.42,
+    "bodyCount": 1,
+    "name": "Piscium Sector FS-J a9-5"
+  },
+  {
+    "distance": 44.48,
+    "bodyCount": 1,
+    "name": "Piscium Sector FS-J a9-6"
+  },
+  {
+    "distance": 41.35,
+    "bodyCount": 11,
+    "name": "Halbangaay"
+  },
+  {
+    "distance": 40.31,
+    "bodyCount": 1,
+    "name": "Piscium Sector JY-H a10-2"
+  },
+  {
+    "distance": 32.4,
+    "bodyCount": 9,
+    "name": "Col 285 Sector WV-S b18-7"
+  },
+  {
+    "distance": 23.96,
+    "bodyCount": 12,
+    "name": "Col 285 Sector YQ-S b18-5"
+  },
+  {
+    "distance": 29.41,
+    "bodyCount": 53,
+    "name": "BD-13 6060"
+  },
+  {
+    "distance": 41.83,
+    "bodyCount": 1,
+    "name": "Alrai Sector YJ-R a4-3"
+  },
+  {
+    "distance": 39.92,
+    "bodyCount": 11,
+    "name": "Gliese 851.3"
+  },
+  {
+    "distance": 34.06,
+    "bodyCount": 32,
+    "name": "Adenates"
+  },
+  {
+    "distance": 46.3,
+    "bodyCount": 14,
+    "name": "Alrai Sector SI-T a3-2"
+  },
+  {
+    "distance": 47.55,
+    "bodyCount": 2,
+    "name": "Col 285 Sector GD-P b20-8"
+  },
+  {
+    "distance": 33.35,
+    "bodyCount": 4,
+    "name": "Tzu I"
+  },
+  {
+    "distance": 37.1,
+    "bodyCount": 8,
+    "name": "Piscium Sector SO-R b4-3"
+  },
+  {
+    "distance": 32.66,
+    "bodyCount": 9,
+    "name": "Lalande 45292"
+  },
+  {
+    "distance": 33.59,
+    "bodyCount": 23,
+    "name": "Col 285 Sector WV-S b18-2"
+  },
+  {
+    "distance": 48.24,
+    "bodyCount": 2,
+    "name": "San Lo Wangu"
+  },
+  {
+    "distance": 47.41,
+    "bodyCount": 1,
+    "name": "Capricorni Sector DL-Y d105"
+  },
+  {
+    "distance": 47.48,
+    "bodyCount": 13,
+    "name": "Alrai Sector GW-N a6-2"
+  },
+  {
+    "distance": 46.39,
+    "bodyCount": 10,
+    "name": "Alrai Sector SI-T a3-3"
+  },
+  {
+    "distance": 34.95,
+    "bodyCount": 5,
+    "name": "Erebus"
+  },
+  {
+    "distance": 43.79,
+    "bodyCount": 11,
+    "name": "NLTT 51966"
+  },
+  {
+    "distance": 47.24,
+    "bodyCount": 1,
+    "name": "Alrai Sector WO-R a4-3"
+  },
+  {
+    "distance": 48.76,
+    "bodyCount": 1,
+    "name": "Ceti Sector LD-S b4-2"
+  },
+  {
+    "distance": 44.46,
+    "bodyCount": 19,
+    "name": "Wolf 953"
+  },
+  {
+    "distance": 47.02,
+    "bodyCount": 17,
+    "name": "LHS 3947"
+  },
+  {
+    "distance": 28.68,
+    "bodyCount": 10,
+    "name": "Barkindji"
+  },
+  {
+    "distance": 31.3,
+    "bodyCount": 3,
+    "name": "HR 8772"
+  },
+  {
+    "distance": 25.15,
+    "bodyCount": 14,
+    "name": "Col 285 Sector YQ-S b18-6"
+  },
+  {
+    "distance": 34.66,
+    "bodyCount": 10,
+    "name": "Col 285 Sector AC-R b19-1"
+  },
+  {
+    "distance": 41.15,
+    "bodyCount": 1,
+    "name": "Har"
+  },
+  {
+    "distance": 41.55,
+    "bodyCount": 13,
+    "name": "Anedjete"
+  },
+  {
+    "distance": 34.09,
+    "bodyCount": 6,
+    "name": "42 Capricorni"
+  },
+  {
+    "distance": 39.69,
+    "bodyCount": 2,
+    "name": "Capricorni Sector YJ-A c22"
+  },
+  {
+    "distance": 34.97,
+    "bodyCount": 5,
+    "name": "Col 285 Sector MI-J c9-29"
+  },
+  {
+    "distance": 31.77,
+    "bodyCount": 11,
+    "name": "LHS 3702"
+  },
+  {
+    "distance": 37.34,
+    "bodyCount": 5,
+    "name": "Ross 787"
+  },
+  {
+    "distance": 47.62,
+    "bodyCount": 1,
+    "name": "Piscium Sector UJ-R b4-3"
+  },
+  {
+    "distance": 42.88,
+    "bodyCount": 8,
+    "name": "Alrai Sector YJ-R a4-4"
+  },
+  {
+    "distance": 38.88,
+    "bodyCount": 18,
+    "name": "LP 580-33"
+  },
+  {
+    "distance": 33.6,
+    "bodyCount": 8,
+    "name": "Xingara"
+  },
+  {
+    "distance": 29.77,
+    "bodyCount": 37,
+    "name": "Ross 209"
+  },
+  {
+    "distance": 38.8,
+    "bodyCount": 2,
+    "name": "Piscium Sector SO-R b4-6"
+  },
+  {
+    "distance": 45.44,
+    "bodyCount": 3,
+    "name": "Capricorni Sector DL-Y d118"
+  },
+  {
+    "distance": 42.58,
+    "bodyCount": 11,
+    "name": "Piscium Sector SO-R b4-2"
+  },
+  {
+    "distance": 48.46,
+    "bodyCount": 3,
+    "name": "LP 816-61"
+  },
+  {
+    "distance": 47.37,
+    "bodyCount": 2,
+    "name": "LHS 3978"
+  },
+  {
+    "distance": 49.86,
+    "bodyCount": 2,
+    "name": "Alrai Sector CQ-P a5-3"
+  },
+  {
+    "distance": 47.14,
+    "bodyCount": 18,
+    "name": "Si Lisu"
+  },
+  {
+    "distance": 36.65,
+    "bodyCount": 3,
+    "name": "Col 285 Sector AC-R b19-4"
+  },
+  {
+    "distance": 46,
+    "bodyCount": 21,
+    "name": "Atata"
+  },
+  {
+    "distance": 42.53,
+    "bodyCount": 6,
+    "name": "Piscium Sector JY-H a10-0"
+  },
+  {
+    "distance": 41.73,
+    "bodyCount": 18,
+    "name": "Apurarai"
+  },
+  {
+    "distance": 38.67,
+    "bodyCount": 2,
+    "name": "LP 761-93"
+  },
+  {
+    "distance": 45.93,
+    "bodyCount": 12,
+    "name": "Tornakulha"
+  },
+  {
+    "distance": 37.99,
+    "bodyCount": 2,
+    "name": "Col 285 Sector AC-R b19-2"
+  },
+  {
+    "distance": 31.97,
+    "bodyCount": 10,
+    "name": "Inmutha"
+  },
+  {
+    "distance": 49.08,
+    "bodyCount": 22,
+    "name": "Ernutef"
+  },
+  {
+    "distance": 49.28,
+    "bodyCount": 10,
+    "name": "BD+02 4718"
+  },
+  {
+    "distance": 32.55,
+    "bodyCount": 13,
+    "name": "Tewikwithat"
+  },
+  {
+    "distance": 35.85,
+    "bodyCount": 6,
+    "name": "LP 640-43"
+  },
+  {
+    "distance": 34.94,
+    "bodyCount": 6,
+    "name": "LTT 8788"
+  },
+  {
+    "distance": 47.2,
+    "bodyCount": 1,
+    "name": "Piscium Sector NE-G a11-3"
+  },
+  {
+    "distance": 35.24,
+    "bodyCount": 10,
+    "name": "Col 285 Sector WV-S b18-1"
+  },
+  {
+    "distance": 48.99,
+    "bodyCount": 1,
+    "name": "Alrai Sector CQ-P a5-2"
+  },
+  {
+    "distance": 45.16,
+    "bodyCount": 5,
+    "name": "Heidjalan"
+  },
+  {
+    "distance": 41.46,
+    "bodyCount": 30,
+    "name": "LP 640-74"
+  },
+  {
+    "distance": 39.4,
+    "bodyCount": 3,
+    "name": "Col 285 Sector AC-R b19-3"
+  },
+  {
+    "distance": 36.92,
+    "bodyCount": 3,
+    "name": "Benates"
+  },
+  {
+    "distance": 44.83,
+    "bodyCount": 14,
+    "name": "Piscium Sector JY-H a10-1"
+  },
+  {
+    "distance": 38.28,
+    "bodyCount": 11,
+    "name": "Radimichs"
+  },
+  {
+    "distance": 41.83,
+    "bodyCount": 37,
+    "name": "Mannodava"
+  },
+  {
+    "distance": 42.64,
+    "bodyCount": 7,
+    "name": "Col 285 Sector SW-L a37-1"
+  },
+  {
+    "distance": 42.56,
+    "bodyCount": 5,
+    "name": "Nareri"
+  },
+  {
+    "distance": 40.22,
+    "bodyCount": 14,
+    "name": "Dread"
+  },
+  {
+    "distance": 48.69,
+    "bodyCount": 12,
+    "name": "Ceti Sector SE-Q b5-3"
+  },
+  {
+    "distance": 43.47,
+    "bodyCount": 4,
+    "name": "Serret"
+  },
+  {
+    "distance": 32.62,
+    "bodyCount": 19,
+    "name": "157 G. Aquarii"
+  },
+  {
+    "distance": 46.29,
+    "bodyCount": 1,
+    "name": "Piscium Sector HR-W c1-25"
+  },
+  {
+    "distance": 39.13,
+    "bodyCount": 5,
+    "name": "Chayansi"
+  },
+  {
+    "distance": 47.99,
+    "bodyCount": 2,
+    "name": "Alrai Sector VD-T a3-1"
+  },
+  {
+    "distance": 31.77,
+    "bodyCount": 18,
+    "name": "Piscium Sector XU-P b5-3"
+  },
+  {
+    "distance": 45.43,
+    "bodyCount": 9,
+    "name": "Muruidon"
+  },
+  {
+    "distance": 43.78,
+    "bodyCount": 17,
+    "name": "Arawere"
+  },
+  {
+    "distance": 47.39,
+    "bodyCount": 10,
+    "name": "Jadimo"
+  },
+  {
+    "distance": 42.35,
+    "bodyCount": 20,
+    "name": "Zhuaruparci"
+  },
+  {
+    "distance": 42.48,
+    "bodyCount": 10,
+    "name": "Piscium Sector OE-G a11-3"
+  },
+  {
+    "distance": 44.05,
+    "bodyCount": 9,
+    "name": "Piscium Sector OE-G a11-1"
+  },
+  {
+    "distance": 43.02,
+    "bodyCount": 17,
+    "name": "Piscium Sector OE-G a11-0"
+  },
+  {
+    "distance": 49.43,
+    "bodyCount": 27,
+    "name": "Azaka"
+  },
+  {
+    "distance": 47.28,
+    "bodyCount": 3,
+    "name": "Col 285 Sector OD-J c9-16"
+  },
+  {
+    "distance": 48.27,
+    "bodyCount": 11,
+    "name": "Bamuti"
+  },
+  {
+    "distance": 44.42,
+    "bodyCount": 1,
+    "name": "Piscium Sector OE-G a11-4"
+  },
+  {
+    "distance": 33.72,
+    "bodyCount": 11,
+    "name": "Cheng Den"
+  },
+  {
+    "distance": 47.26,
+    "bodyCount": 7,
+    "name": "Capricorni Sector AA-Z b1"
+  },
+  {
+    "distance": 42.53,
+    "bodyCount": 16,
+    "name": "Q'eqchi"
+  },
+  {
+    "distance": 45.41,
+    "bodyCount": 10,
+    "name": "Warkushanui"
+  },
+  {
+    "distance": 48.07,
+    "bodyCount": 4,
+    "name": "Noegin"
+  },
+  {
+    "distance": 46.67,
+    "bodyCount": 10,
+    "name": "Piscium Sector KY-H a10-0"
+  },
+  {
+    "distance": 48.76,
+    "bodyCount": 11,
+    "name": "LHS 3760"
+  },
+  {
+    "distance": 39.63,
+    "bodyCount": 2,
+    "name": "Col 285 Sector XF-U b17-3"
+  },
+  {
+    "distance": 42.74,
+    "bodyCount": 2,
+    "name": "Juno"
+  },
+  {
+    "distance": 44.48,
+    "bodyCount": 9,
+    "name": "Col 285 Sector SW-L a37-0"
+  },
+  {
+    "distance": 44.89,
+    "bodyCount": 6,
+    "name": "Col 285 Sector SW-L a37-2"
+  },
+  {
+    "distance": 37,
+    "bodyCount": 15,
+    "name": "Thotigudi"
+  },
+  {
+    "distance": 43.4,
+    "bodyCount": 20,
+    "name": "VVO 19"
+  },
+  {
+    "distance": 42.11,
+    "bodyCount": 3,
+    "name": "LP 642-82"
+  },
+  {
+    "distance": 47.81,
+    "bodyCount": 9,
+    "name": "Zaramo"
+  },
+  {
+    "distance": 40.14,
+    "bodyCount": 7,
+    "name": "BD+30 4803"
+  },
+  {
+    "distance": 44.17,
+    "bodyCount": 28,
+    "name": "241 G. Aquarii"
+  },
+  {
+    "distance": 33.56,
+    "bodyCount": 2,
+    "name": "Col 285 Sector VK-U b17-2"
+  },
+  {
+    "distance": 36.55,
+    "bodyCount": 3,
+    "name": "Col 285 Sector ZQ-S b18-6"
+  },
+  {
+    "distance": 49.28,
+    "bodyCount": 8,
+    "name": "Alrai Sector DQ-P a5-3"
+  },
+  {
+    "distance": 45.48,
+    "bodyCount": 2,
+    "name": "Piscium Sector TO-R b4-6"
+  },
+  {
+    "distance": 49.02,
+    "bodyCount": 12,
+    "name": "Kora Pin"
+  },
+  {
+    "distance": 38.4,
+    "bodyCount": 9,
+    "name": "Gan"
+  },
+  {
+    "distance": 47.11,
+    "bodyCount": 26,
+    "name": "LP 638-58"
+  },
+  {
+    "distance": 49.04,
+    "bodyCount": 3,
+    "name": "LP 638-23"
+  },
+  {
+    "distance": 41.84,
+    "bodyCount": 2,
+    "name": "Col 285 Sector BM-S b18-1"
+  },
+  {
+    "distance": 47.63,
+    "bodyCount": 2,
+    "name": "Bidja"
+  },
+  {
+    "distance": 38.1,
+    "bodyCount": 11,
+    "name": "Yum Kaia"
+  },
+  {
+    "distance": 37.68,
+    "bodyCount": 15,
+    "name": "Kongkomisso"
+  },
+  {
+    "distance": 36.63,
+    "bodyCount": 31,
+    "name": "Mu Capricorni"
+  },
+  {
+    "distance": 48.47,
+    "bodyCount": 3,
+    "name": "LP 873-74"
+  },
+  {
+    "distance": 46.35,
+    "bodyCount": 12,
+    "name": "Scordisci"
+  },
+  {
+    "distance": 44.36,
+    "bodyCount": 12,
+    "name": "Spinoni"
+  },
+  {
+    "distance": 38.35,
+    "bodyCount": 1,
+    "name": "Aning"
+  },
+  {
+    "distance": 38.24,
+    "bodyCount": 37,
+    "name": "Gwiones"
+  },
+  {
+    "distance": 40.61,
+    "bodyCount": 18,
+    "name": "Taso Wang"
+  },
+  {
+    "distance": 43.05,
+    "bodyCount": 3,
+    "name": "Col 285 Sector OT-H c10-15"
+  },
+  {
+    "distance": 48.7,
+    "bodyCount": 20,
+    "name": "LTT 9593"
+  },
+  {
+    "distance": 48.91,
+    "bodyCount": 11,
+    "name": "Col 285 Sector OQ-N a36-2"
+  },
+  {
+    "distance": 38.21,
+    "bodyCount": 14,
+    "name": "Madon"
+  },
+  {
+    "distance": 39.34,
+    "bodyCount": 6,
+    "name": "Karovoy"
+  },
+  {
+    "distance": 45.93,
+    "bodyCount": 2,
+    "name": "Ceti Sector QJ-Q b5-4"
+  },
+  {
+    "distance": 42.6,
+    "bodyCount": 2,
+    "name": "LP 702-48"
+  },
+  {
+    "distance": 43.57,
+    "bodyCount": 9,
+    "name": "Veja Manto"
+  },
+  {
+    "distance": 46.6,
+    "bodyCount": 2,
+    "name": "LTT 8681"
+  },
+  {
+    "distance": 42.82,
+    "bodyCount": 20,
+    "name": "Don"
+  },
+  {
+    "distance": 42.17,
+    "bodyCount": 22,
+    "name": "Valki"
+  },
+  {
+    "distance": 44.92,
+    "bodyCount": 2,
+    "name": "Piscium Sector TO-R b4-5"
+  },
+  {
+    "distance": 43.71,
+    "bodyCount": 3,
+    "name": "Ceti Sector QJ-Q b5-2"
+  },
+  {
+    "distance": 45.91,
+    "bodyCount": 6,
+    "name": "Kanaheim"
+  },
+  {
+    "distance": 42.79,
+    "bodyCount": 2,
+    "name": "LPM 860"
+  },
+  {
+    "distance": 38.52,
+    "bodyCount": 4,
+    "name": "Col 285 Sector VK-U b17-5"
+  },
+  {
+    "distance": 48.88,
+    "bodyCount": 2,
+    "name": "Piscium Sector HR-W c1-28"
+  },
+  {
+    "distance": 39.53,
+    "bodyCount": 17,
+    "name": "Wasetae"
+  },
+  {
+    "distance": 44.31,
+    "bodyCount": 3,
+    "name": "LTT 9164"
+  },
+  {
+    "distance": 39.07,
+    "bodyCount": 7,
+    "name": "Tsogobri"
+  },
+  {
+    "distance": 45.34,
+    "bodyCount": 3,
+    "name": "Kissist"
+  },
+  {
+    "distance": 42.57,
+    "bodyCount": 14,
+    "name": "Col 285 Sector XV-S b18-7"
+  },
+  {
+    "distance": 49.48,
+    "bodyCount": 5,
+    "name": "Mulungu"
+  },
+  {
+    "distance": 47.8,
+    "bodyCount": 9,
+    "name": "Col 285 Sector BM-S b18-3"
+  },
+  {
+    "distance": 41.09,
+    "bodyCount": 1,
+    "name": "LP 761-117"
+  },
+  {
+    "distance": 40.45,
+    "bodyCount": 42,
+    "name": "LTT 9299"
+  },
+  {
+    "distance": 40.88,
+    "bodyCount": 2,
+    "name": "Akba Ataci"
+  },
+  {
+    "distance": 43.99,
+    "bodyCount": 1,
+    "name": "Col 285 Sector ST-R d4-120"
+  },
+  {
+    "distance": 44.8,
+    "bodyCount": 4,
+    "name": "Piscium Sector VZ-P b5-3"
+  },
+  {
+    "distance": 41.51,
+    "bodyCount": 24,
+    "name": "Smolyaqa"
+  },
+  {
+    "distance": 43.96,
+    "bodyCount": 41,
+    "name": "BD-12 6174"
+  },
+  {
+    "distance": 42.47,
+    "bodyCount": 21,
+    "name": "Kartam"
+  },
+  {
+    "distance": 44.72,
+    "bodyCount": 11,
+    "name": "Alawongli"
+  },
+  {
+    "distance": 49.28,
+    "bodyCount": 49,
+    "name": "LHS 3872"
+  },
+  {
+    "distance": 41.91,
+    "bodyCount": 7,
+    "name": "Lusonda"
+  },
+  {
+    "distance": 41.9,
+    "bodyCount": 14,
+    "name": "LTT 8914"
+  },
+  {
+    "distance": 44.98,
+    "bodyCount": 2,
+    "name": "Piscium Sector XU-P b5-6"
+  },
+  {
+    "distance": 47.38,
+    "bodyCount": 11,
+    "name": "Balaa"
+  },
+  {
+    "distance": 46.55,
+    "bodyCount": 19,
+    "name": "Hemak"
+  },
+  {
+    "distance": 45.7,
+    "bodyCount": 7,
+    "name": "Wikatabar"
+  },
+  {
+    "distance": 47.59,
+    "bodyCount": 17,
+    "name": "Warkan"
+  },
+  {
+    "distance": 46.69,
+    "bodyCount": 4,
+    "name": "37 Capricorni"
+  },
+  {
+    "distance": 43.58,
+    "bodyCount": 3,
+    "name": "BD-19 6274"
+  },
+  {
+    "distance": 43.67,
+    "bodyCount": 42,
+    "name": "Tenche"
+  },
+  {
+    "distance": 48.37,
+    "bodyCount": 5,
+    "name": "SRS 2543"
+  },
+  {
+    "distance": 49.69,
+    "bodyCount": 1,
+    "name": "Col 285 Sector BM-S b18-5"
+  },
+  {
+    "distance": 46.18,
+    "bodyCount": 13,
+    "name": "Col 285 Sector TP-U b17-6"
+  },
+  {
+    "distance": 45.81,
+    "bodyCount": 13,
+    "name": "LP 876-76"
+  },
+  {
+    "distance": 49.93,
+    "bodyCount": 2,
+    "name": "Piscium Sector XU-P b5-1"
+  },
+  {
+    "distance": 47.29,
+    "bodyCount": 2,
+    "name": "Col 285 Sector TP-U b17-4"
+  },
+  {
+    "distance": 47.16,
+    "bodyCount": 12,
+    "name": "Bacara"
+  },
+  {
+    "distance": 46.64,
+    "bodyCount": 13,
+    "name": "Col 285 Sector ZQ-S b18-4"
+  }
+]
